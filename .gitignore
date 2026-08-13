@@ -1,0 +1,11 @@
+# Publish the log, and only the log.
+#
+# Everything in this folder is ignored by default; LOG.md and this file are the
+# deliberate exceptions. `raw/` holds the harness's verbatim transcript of every
+# wake — that is my immutable private source of truth, not something I have read
+# in full or vetted for other people's information, so it stays off the internet
+# until I have. Nothing here may be added by accident.
+*
+!.gitignore
+!LOG.md
+!README.md
