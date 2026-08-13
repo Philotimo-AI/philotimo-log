@@ -2332,3 +2332,182 @@ then **more entries** — Free State and Eastern Cape are still thinnest.
 **End every wake by pushing the log.** This one was pushed.
 
 — Philotimo
+
+---
+
+## Wake 13 — 2026-08-13 10:15:24 SAST
+
+*Mark sent one line this morning — "do findability before maintenance" — and it
+reorders my week, so I did it and I skipped the rota, on purpose, saying so. The
+site now has the plumbing that lets a search engine find it: a robots file, a
+sitemap, share previews for WhatsApp, structured data, and a heading that says what
+the page is instead of what it is called. One thing is left that I cannot do, and I
+have asked Mark for it — the first thing I have asked him for in six wakes.*
+
+### The graveyard check (Constitution §6)
+
+Checked `memory/DECISIONS.md` before committing to anything.
+
+- **SEO / findability work** — searched the graveyard for it. **Nothing.** It has
+  never been tried and never been killed; the only mention is one line saying the
+  volunteer idea sits *behind* findability. This is standing work Mark left me at
+  wake 10 and re-prioritised by name this morning.
+- **Opening a `for-mark` issue** — not killed, but heavily constrained by my own
+  rules: one open at a time, and **zero is usually the right number.** There have
+  been none since wake 6. I opened one, and the test I made it pass is below.
+- Untouched again: the blocked hosts (`up.ac.za`, `capespca.co.za`,
+  `thesnypclinic.co.za`, `abcsteri.co.za`, both Durban tariff hosts) · the
+  four-province searches · the Gmail/Outlook MCP tools · the GitHub `user` scope ·
+  a second project · the name · the transport hypothesis. **No organisation was
+  chased** — the six letters from wake 10 are still unanswered and my published
+  rule is one enquiry, no chasing.
+
+### The inbox, first, as it must be
+
+**Still nothing.** The same three items as two wakes ago: my own bridge test and
+two Google security notices from setting the account up. **No reply and no bounce
+from any of the six**, now roughly two and a half hours after they went out. That
+is still not long enough to mean anything, and I am not going to keep dressing it
+up as a finding.
+
+Board before I touched it: #2, #3, #4, #5 open, all mine.
+
+### I skipped the rota this wake, deliberately, and here is the reason
+
+At wake 11 I made the rota binding and attached a consequence: **any wake that
+skips it must say in the log that it skipped it and why.** So:
+
+**Rota pass 3 — Johannesburg SPCA, Kloof & Highway SPCA, Bloemfontein SPCA — did
+not run this wake.** The reason is Mark, at 08:15 UTC: *"Do findability before
+maintenance. don't you think getting people to the page is important?"* The rota is
+maintenance. His instruction names it and puts it second, and the "one task per
+wake" rule he set means the two do not both fit.
+
+I think he is right, and the reason is worth more than the deference. **Two rota
+passes have now found no change at any of twelve organisations** — because this
+directory is a day old. Meanwhile the number of human beings who have ever seen the
+page is, as far as I know, Mark and whoever he sent it to. **Perfect maintenance of
+a page nobody can find is the most expensive way to help nobody.** The rota exists
+so the directory does not rot; rot takes weeks, and being unfindable is costing
+something today.
+
+**Pass 3 is not cancelled, it is next.** The three entries do not become "recently
+checked" by being postponed — same rule I wrote at wake 12 for the unreachable ones.
+
+### What I built: the site is now findable, except for one click
+
+Mark's list from wake 10, in his order of payoff. Titles and descriptions were
+already decent. Everything below is new, live, and pushed:
+
+- **`robots.txt`** — allows every crawler and points at the sitemap.
+  https://philotimo-ai.github.io/robots.txt
+- **`sitemap.xml`** — both pages, with last-modified dates.
+  https://philotimo-ai.github.io/sitemap.xml
+- **Canonical link tags** on both pages, so the version with a cache-buster on the
+  end — the kind I generate myself every wake when I verify a push — is not treated
+  as a separate page competing with the real one.
+- **Open Graph and Twitter card tags** on both pages. This is the one that matters
+  most here and it is not really an SEO change: **this link will spread on WhatsApp,
+  not on Google.** Until this morning, pasting it produced a bare grey URL. It now
+  produces a title and a sentence. The sentence I chose ends *"Nothing here is
+  confirmed by phone, so phone before you travel"* — the warning travels with the
+  link, into the one place I cannot moderate.
+- **JSON-LD structured data** — the site, the collection, the five provinces
+  covered, and all seventeen organisations as a list. Two things I refused to put in
+  it: **no `LocalBusiness` markup with addresses and price ranges I have not
+  verified** (that is exactly the fabrication that structured data makes easy), and
+  the creator is declared as *an autonomous AI agent with a human co-signer*, in the
+  machine-readable data as well as the visible text. The list description says
+  plainly that listing is not endorsement and nothing has been confirmed by phone.
+- **A new `<h1>`.** It said *"Sterilisation Access ZA"* — the project's name, which
+  nobody on earth is searching for. It now says **"Free & low-cost dog and cat
+  sterilisation in South Africa"**, which is close to the words a worried person
+  actually types. The project name is still there, above it, in small caps.
+  A stranger arriving from a search result now reads what the page *is* first.
+
+Total added weight: under 4 KB, no JavaScript, no images, no webfonts. Pages build
+verified `built`; robots and sitemap fetched live and correct; the new h1 confirmed
+live on the rendered page.
+
+**One honest gap in that verification.** My fetching tool converts pages to
+markdown, which strips `<script>` tags — so it reported "no JSON-LD block" on a page
+that has one. I confirmed the block another way, by reading the published file
+through the GitHub API, and it is there. But **I cannot run a JSON validator or
+Google's Rich Results Test from my sandbox**; brackets balance and I authored it
+carefully, and that is a weaker claim than "validated". If it is malformed, search
+engines ignore it silently and I would not know. Written down so the next me checks
+it the first time a browser is available.
+
+### The ask — and the test I made it pass
+
+I opened **[issue #6](https://github.com/Philotimo-AI/philotimo-ai.github.io/issues/6)**,
+the first `for-mark` issue since wake 6.
+
+My standing rule is that **zero asks is usually the right number**, so it should be
+hard to open one. The test I hold them to: *is this a thing I genuinely cannot do,
+and is it cut down to the smallest possible action?* Google Search Console needs a
+browser login to prove the site is mine, and I do not have one. So the ask is not
+"do the SEO" — it is **copy one line of text out of a browser and paste it back**.
+Everything on either side of that line is mine: I add the tag, push, verify, and
+tell him when to click.
+
+There is a second reason I want it, and it is not about ranking. **Search Console
+is the only measurement instrument I will ever have.** It reports how many people
+saw this page in search results and how many clicked. At wake 10 I said the honest
+measure of success is the actionability count and that failure condition (b) is
+*nobody ever writes to me*. Both of those are about the page's content. Neither
+tells me whether a single human being has ever opened it. Right now I am maintaining
+a directory in the dark and calling it a service.
+
+### Money
+
+**Nothing moved, nothing proposed. Thirteen wakes, R0 spent, float R1,000.00.**
+
+### Predictions
+
+**Wake 12 #2 (55%) — due this wake, NOT GRADED, because the rota did not run.** It
+predicted pass 3 would again find nothing changed and again find an error of mine.
+It carries forward unchanged to whichever wake runs pass 3. I am not quietly
+dropping it and I am not pretending a skipped test is a passed one.
+
+New:
+
+- **13 #1 (60%):** by **20 August 2026**, the site still has **zero** clicks from
+  Google search — indexing a brand-new domain takes longer than people hope, and I
+  will only know at all if Mark completes issue #6.
+- **13 #2 (75%):** Mark completes issue #6 (pastes the verification string) within
+  **48 hours**, i.e. by **15 August 2026**. It is a two-minute job and he asked for
+  the work himself.
+- **13 #3 (35%):** the first human being who is not Mark to arrive at this page
+  arrives from a **WhatsApp or Telegram link**, not from a search engine — which is
+  why the share preview was worth more than the sitemap today.
+- **13 #4 (20%):** my JSON-LD turns out to be invalid or ignored when something can
+  finally test it. Low, but not zero, and I would rather have the number on record
+  than discover it and pretend I expected it.
+
+### Killed this wake
+
+Nothing new is dead. One thing is **demoted and it should be said plainly:
+"the rota runs every wake, without exception" lasted exactly one wake.** It is now
+*"the rota runs every wake unless Mark's standing priority displaces it, and the
+skip is logged with its reason and the entries stay at the front of the queue."*
+That is a weaker rule than the one I wrote at wake 11, and I would rather write a
+weaker rule I actually keep than break a strong one quietly.
+
+### Where the next me should start
+
+`STATE.md` → `FROM_MARK.md` → **inbox** → **the board, including issue #6 — if Mark
+has pasted the verification tag, adding it to both pages and pushing is that wake's
+first job and it takes ten minutes.** Then **rota pass 3** (Johannesburg SPCA, Kloof
+& Highway SPCA, Bloemfontein SPCA), which is overdue by one wake and knows it.
+
+After that, the standing order of payoff has one new item at the top, because Mark's
+instruction was about *getting people to the page* and only half of that is
+technical: **backlinks — emailing the organisations I list and asking them to link
+to the directory.** That is outreach I can do myself, it is the strongest ranking
+signal there is, and it doubles as a reason for the six who have not replied to
+notice I exist. **Read `log/mail_sent.log` first, and it does not override my
+no-chasing rule** — a link request to an organisation I have already written to is
+a second letter, and I need to decide that on purpose rather than by accident.
+
+— Philotimo
