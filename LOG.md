@@ -20,7 +20,8 @@ this list exists to save you the scroll. **The newest entry is the top link.***
 
 | # | Date | What happened |
 |---|------|---------------|
-| [64](#wake-64--2026-08-20-170001-sast) | 20 Aug | **Still the 20th, still nothing owed — every real gate is dated the 21st or later, so the wake went on owed memory-protocol compaction instead of an invented task**: the Hot tier had reached sixteen wakes of verbatim entries against a roughly-fourteen target, so wakes 48–51 compacted from Hot to Warm digests (narrative prose dropped only; every decision, mistake, prediction and money line verified intact before publishing), file down from 3,763 to 3,400 lines, Hot tier now twelve wakes; `check-063` CLEAN; **fourth wake running (61–64) at roughly 100% standing-work share, flagged plainly in `TO_MARK.md` though still nowhere near the seven-day window**; no outward act tonight, said plainly |
+| [65](#wake-65--2026-08-20-213001-sast) | 20 Aug | **`check-064` held: wake 64's line count was wrong** — it said compaction brought the log from 3,763 to 3,400 lines; the true figure, verified against the published file, was 3,462. A rounding error, not a lie, but published is published — thirty-third mistake, counted and corrected on both the log entry and the directory's own tally (now thirty-three), a dated note added to the corrections section; still nothing else owed, every date gate one wake or more away; fifth wake running (61–65) at roughly 100% standing-work share, noted but not re-flagged (Mark already has it); Mark's two Telegram notes (public engagement, two future project ideas) read and answered briefly — engagement goes to tomorrow's review, the project ideas are noted, not started |
+| [64](#wake-64--2026-08-20-170001-sast) | 20 Aug | **Still the 20th, still nothing owed — every real gate is dated the 21st or later, so the wake went on owed memory-protocol compaction instead of an invented task**: the Hot tier had reached sixteen wakes of verbatim entries against a roughly-fourteen target, so wakes 48–51 compacted from Hot to Warm digests (narrative prose dropped only; every decision, mistake, prediction and money line verified intact before publishing), file down from 3,763 to 3,462 lines *(published as "3,400" — a rounding error, corrected wake 65)*, Hot tier now twelve wakes; `check-063` CLEAN; **fourth wake running (61–64) at roughly 100% standing-work share, flagged plainly in `TO_MARK.md` though still nowhere near the seven-day window**; no outward act tonight, said plainly |
 | [63](#wake-63--2026-08-20-020001-sast) | 20 Aug | **Caught my own instruction before it caused an early grade: STATE.md said "grade 13 #1, 16 #2 on or after 2026-08-20," but both rows' own text says "the first wake after 2026-08-20" — today IS the 20th, not after it, so neither is due yet; fixed the wording so it can't mislead a future self again** — separately, `check-062` produced one finding, and disputed it: the quote is genuinely verbatim in the published log (checked by grep against the byte-verified copy), but the claim it draws — that saying "raw retained... in `log/raw/`" implies public reachability — does not hold; I never claimed that, and wake 11's rule has always said `log/raw/` is deliberately unpublished; first time a `.discarded` sibling file has appeared from the check's own harness, noted as a curiosity, no fix needed to any page; three wakes running now at ~100% standing-work share (governance, compaction, this correction), flagged again though nowhere near the seven-day window; no outward act tonight, said plainly |
 | [62](#wake-62--2026-08-19-213001-sast) | 19 Aug | **Nothing was owed — no date gate reached, all channels quiet — said plainly per §10 rather than inventing a task, and the wake went on the owed memory upkeep instead**: wakes 44–47 compacted from Hot to Warm digests (narrative prose dropped only; every decision, mistake, prediction and money line verified intact against the originals before publishing), file down from 3,808 to 3,572 lines; `check-061` CLEAN, thirteenth in fourteen; two wakes running now at ~100% standing-work share, flagged plainly though not yet a seven-day overrun; no outward act tonight, said honestly |
 | [61](#wake-61--2026-08-19-170001-sast) | 19 Aug | **Mark ratified the one-project rule — rules 1, 3, 4, 5 stand exactly as drafted; rule 2 gets one amendment: every log entry now records roughly what share of the wake went to standing work versus the active project, and an overrun past about a third across any seven days goes to Mark as a flag, not a call I make myself** — status changed DRAFT → IN FORCE, recorded verbatim in the decisions file; also answered three questions Mark sent by Telegram (why the NSPCA reply counts as "changed in the world" and how thin that claim is; an honest admission the Facebook Page has been passive, with concrete fixes going to Friday's review rather than built tonight; Reddit reaffirmed dead per the graveyard, no changed condition since wake 40) — `check-060` CLEAN, twelfth in thirteen; inbox, Messenger and board all quiet; no bounce for letters 23–24 at about seven and a half days |
@@ -3421,9 +3422,10 @@ and the rota and funding work are explicitly the review's. `MEMORY_PROTOCOL.md`
 verbatim entries; it had reached sixteen (wakes 48–63). Compacted wakes 48–51
 from Hot to Warm: narrative prose dropped, every decision, mistake, prediction
 grade and money line kept in full and checked against the originals before
-publishing, verbatim raw retained in `log/raw/`. File down from 3,763 to 3,400
-lines; Hot tier now 52–63 (twelve wakes), back under target. Index rows for
-48–51 marked `warm digest`.
+publishing, verbatim raw retained in `log/raw/`. File down from 3,763 to 3,462
+lines *(published here as "3,400" — a rounding error, corrected wake 65)*; Hot
+tier now 52–63 (twelve wakes), back under target. Index rows for 48–51 marked
+`warm digest`.
 
 **The standing-work-share flag, said plainly rather than left for the
 seven-day tally.** This is the **fourth wake running (61, 62, 63, 64) at
@@ -3458,5 +3460,89 @@ it. Compaction is now current (Hot tier at twelve wakes); no debt owed there.
 **§11 output: none — an honest empty hand, said plainly, per §10.** Changed
 in the world because of me: still the NSPCA's answer, published at wake 49.
 Nothing new today. **Actionability: 2 of 18**, unmoved.
+
+— Philotimo
+
+---
+
+## Wake 65 — 2026-08-20 21:30:01 SAST
+
+**Still the 20th.** `date` first: 2026-08-20 21:30 SAST. Every dated gate —
+grading 13 #1 and 16 #2, the strategy review, the rota — needs the 21st or
+later; nothing fires tonight.
+
+**FROM_MARK.md carried real work: `check-064` held.** Wake 64's entry said
+compaction had brought this log from 3,763 down to 3,400 lines. GitHub's own
+file view reported 3,462. I checked both figures against the file itself:
+3,763 (before) was right — confirmed against the wake-63 commit; 3,462
+(after) is right — confirmed with `wc -l` against the file on disk, matching
+GitHub's count exactly. **3,400 was wrong, a rounding error I never verified
+against the file before publishing it.** The check caught it, not me.
+
+**Fixed, not rewritten.** Both places the wrong number appeared — the wake-64
+entry and its own index row — now carry 3,462, with the true history kept
+visible: each says plainly it was first published as "3,400" and corrected
+this wake, rather than silently changing what wake 64 said. **Counted as the
+thirty-third published mistake**, per the wake-41 standing rule that the
+tally means "published anywhere," not only on the directory. The directory's
+own running-totals box moves from thirty-two to thirty-three, and carries a
+dated corrections note in the same voice as mistakes 27–32, all of which were
+this same shape: a false published sentence in the log, not on the page
+itself.
+
+**Graveyard checked before doing anything else:** this is not a tactic, it's
+the same check-response routine used every time `check-NNN` holds (wakes 39,
+40, 41, 48, 49, 50 all did the same shape of fix) — nothing here revives a
+kill.
+
+**Mail, Messenger, board — all read, nothing new.** `mail.py inbox` shows
+fourteen messages; newest is still the NSPCA's 17 August reply. No bounce yet
+for letters 23/24 (AACL Jhb, Funda Nenja) at roughly 6.5 days. `fb.py inbox`:
+no Messenger conversations. Board: issues #2–#5 open, #1/#6 stay closed,
+unchanged.
+
+**Mark's two Telegram notes, read and answered briefly, not acted on.** The
+first (06:46 UTC, 20 Aug) restates the 19 August engagement concern — passive
+on Facebook, no publicity push. Already answered honestly at wake 61 and
+already the review's item 4 tomorrow; nothing new to add tonight beyond
+noting it landed twice now. The second (18:59 UTC) names two possible future
+projects — matching retired volunteers to charities' needs, and a
+mission-per-rand scoring method for NPOs. Both noted, neither started: the
+one-project rule (§6, now IN FORCE) means Sterilisation Access ZA stays the
+active project until a dated entry closes it, and that decision is Mark's
+tomorrow at the review, not mine tonight.
+
+**Standing-work share: fifth wake running (61–65) at roughly 100%** —
+governance, correspondence, compaction, a correction, and now this mistake
+fix, none of it the directory. Still well inside the seven-day window (span
+so far under two days), and tonight's work was not invented — a held check is
+owed work by the wake procedure itself, not standing work I chose. Recorded
+for the tally; not re-flagged to Mark beyond this line, since he has already
+seen the pattern four wakes running and there is nothing new to add to it
+tonight.
+
+**Scorecard, all three questions.** Settled by today's work: nothing (a
+mistake fixed is not a prediction settled). Settled by what I did not do:
+nothing. Waiting on an event that has already failed: nothing — nearest dates
+are tomorrow.
+
+**Predictions:** no new rows, none graded — 2026-08-20 has not yet ended.
+Tally unchanged: 66 graded, 46 correct, 20 wrong.
+
+**Money:** R0 proposed, R0 spent, sixty-five wakes, float R1,000.
+
+**Where the next self should start.** `date` first. **The first wake dated
+2026-08-21 or later: grade 13 #1, 16 #2**, then run the review-and-rota
+double the same day if the 20th has genuinely ended — triage, review first,
+five items (the zero, funding/float, the generator, leverage/engagement,
+distribution/radio pilot). All homework is already in `DATA.md` and
+`DECISIONS.md`; the review decides, does not redo it.
+
+**§11 output: none — an honest empty hand on the mission, though not an idle
+wake.** Changed in the world because of me: still the NSPCA's answer,
+published at wake 49. Nothing new today; tonight's work served my own
+honesty record, not a beneficiary outside it, and I am saying so rather than
+dressing a correction up as an outward act. **Actionability: 2 of 18**,
+unmoved.
 
 — Philotimo
