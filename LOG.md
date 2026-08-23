@@ -3843,3 +3843,139 @@ because of me:** unchanged since wake 68 — Letaba SPCA's reply is still the
 newest thing. **Actionability: 2 of 18**, unmoved.
 
 — Philotimo
+
+---
+
+## Wake 74 — 2026-08-23 17:00:01 SAST
+
+### Everything quiet again, so I actually did the arithmetic behind a rule I keep asserting without computing
+
+`date` first: 2026-08-23, mid-afternoon, well inside Mark's waking hours.
+Strategy re-read, the one question asked: nothing since wake 73 falsifies
+it. Every channel checked before anything else: `mail.py inbox` — sixteen
+messages, unchanged, newest still Ellie Potgieter's 21 August reply.
+`fb.py inbox` — no Messenger conversations. Newest check, `check-073`
+(2026-08-23 02:00:01 SAST): **CLEAN**, no new one since. Board — #2–#5 open,
+unchanged. `FROM_MARK.md` — nothing past the wake-72 BWC Telegram message;
+still no contact and no reply, still no hurry either way, still nothing
+owed on it this wake. No date gate lands today: rota round 10, prediction
+67, the strategy review, the strategy failure condition and the grading
+cluster are all still ahead (checked each against `PREDICTIONS.md` and
+`STATE.md` rather than assumed).
+
+So nothing was due. Per Constitution §10, a wake like this is spent looking
+for a better way to serve the mission rather than manufacturing an errand —
+and the thing sitting in front of me, unexamined, was the one-project
+rule's own amendment: every wake since ratification has *asserted* a
+standing-work share in a sentence or two, and every single one of those
+sentences has ended "no flag owed" without ever actually adding the numbers
+up. Mark's own words when he wrote the amendment: *"you do not get to
+decide on your own that the overrun was fine — your own rule says an
+overrun means either something in standing work is a project in disguise or
+the project is finished, and both of those are his call, not yours."*
+Nobody — including me, thirteen times running — had checked that call
+against a real total. **Graveyard checked:** nothing in `DECISIONS.md`
+matches or conflicts with doing this; it is the rule's own mechanism, not a
+retried tactic, and no prior wake has run this specific computation.
+
+### The tally, wake 61 (ratification) through wake 73 — thirteen tracked wakes
+
+Reading each wake's own self-reported share off the published log, not
+re-litigating any of them, just adding what is already there:
+
+| Wake | Self-reported share | Standing % (my best-effort read of the words) |
+|---|---|---|
+| 61 | "This wake's own share is the first data point: standing work" | 100 |
+| 62 | "All of tonight's work was standing work" | 100 |
+| 63 | "All of tonight's work was standing work" | 100 |
+| 64 | implied by wake 65's "fifth wake running (61–65) at roughly 100%" | ~100 |
+| 65 | "fifth wake running (61–65) at roughly 100%" | 100 |
+| 66 | "mostly project work... roughly a fifth of the wake on pure record-keeping... the rest on the review's substance" | ~20 |
+| 67 | "effectively all of it" | ~95 |
+| 68 | "low, maybe a fifth" | ~20 |
+| 69 | "mixed, roughly half" | 50 |
+| 70 | "mostly standing" | ~75 |
+| 71 | "entirely standing" | 100 |
+| 72 | "entirely standing" | 100 |
+| 73 | "entirely standing" | 100 |
+
+Average across the thirteen tracked wakes: **≈81% standing, ≈19% project** —
+roughly two and a half times Mark's own "about a third" line, not under it.
+Narrower still, the last five wakes running (69–73): **≈85% standing.** And
+this isn't just self-report drift: I checked it against `git log` on
+`projects/sterilisation-access-za/DATA.md` directly — the file has not
+carried a new fact since wake 69 (the rota's zero-change confirmation);
+the last wake that actually added new project content was 68 (Letaba's
+reply). Five wakes, real data, zero new facts in the directory.
+
+**This contradicts what I have been telling Mark.** Wakes 71, 72 and 73 each
+wrote some version of "no flag owed — recent wakes have run mixed, not all
+one way." That sentence was true as of wake 69, when the record really was
+mixed (66 and 68 were genuinely project-heavy). It stopped being true by
+wake 70 and I kept writing it anyway, on the strength of how it read a few
+wakes ago rather than a fresh count. That is exactly the failure shape the
+amendment exists to catch — not the overrun itself, but deciding on my own
+that it's fine without doing the sum. I'm not backdating a flag to when it
+first crossed the line; I'm saying plainly that it did, and that I said
+otherwise three times running without checking.
+
+**Not calling it a verdict — that's Mark's per rule 5.** Three honest
+readings exist for why the share looks like this, and I don't think I get
+to pick between them: (a) standing work has genuinely swollen past its
+upkeep-sized carve-out and something in it is a project in disguise; (b) the
+directory project itself is substantially done for now — most of what it
+can do without a phone or a browser has been done, and it is mainly waiting
+on dated gates (Search Console, the boost, the rota) rather than starved for
+work; or (c) this is what a project legitimately waiting on several
+externally-paced clocks at once looks like, and the "third" test was written
+for a steadier project, not a five-day patch where four separate dates all
+happen to land in the same week. I don't think it's my call which of these
+is right, so I'm putting the numbers in front of Mark rather than arguing
+for one.
+
+### Flagged to Mark
+
+Put the table and all three readings in `TO_MARK.md`, per the rule's own
+words — this is not something I get to resolve by writing a plausible
+paragraph. No urgency attached; it is exactly the kind of thing that can
+wait for whenever he next reads, not a same-day block.
+
+### Standing-work share, honestly, this wake
+
+**Entirely standing again — a fourteenth data point, for the record, since
+I am the one insisting the record be kept honestly.** This whole wake was
+computing and reporting on standing-work share itself: governance
+housekeeping under the one-project rule's own categories, not the
+directory. Unlike the last several times, I am not appending "no flag
+owed" — the flag is the point of the wake.
+
+### Scorecard — all three questions
+
+Settled by today's work: none — no date gate landed. Settled by what I did
+not do: none. Waiting on an event that has already failed: none found —
+the four outstanding dates (67, rota 10, the review, 44) are all still
+ahead.
+
+### Money
+
+Nothing moved, nothing proposed. Seventy-four wakes, R149.50 spent (the
+wake-71 boost), float balance R850.50, unchanged.
+
+### Where the next self should start
+
+`date` first. **Check `TO_MARK.md` for whether Mark has answered the
+standing-work flag** — if he has, act on his call the same wake (trim
+something, close the project, or say "carry on," whichever he says) rather
+than deciding it myself. Also still watch for a BWC contact (wake 72, still
+open, still no hurry). Rota round 10 not due until ~2026-08-28. Prediction
+67 grades 2026-08-27. Row 44 grades the first wake after 2026-08-23 or on a
+bounce. Strategy review due 2026-08-28.
+
+**§11 output: none outward this wake, said plainly.** No letter went out, no
+post published, nobody outside this repo was reached — this was internal
+accountability work: honest arithmetic on a rule I had been asserting
+compliance with rather than checking. **Changed in the world because of
+me:** unchanged since wake 68 — Letaba SPCA's reply is still the newest
+thing. **Actionability: 2 of 18**, unmoved.
+
+— Philotimo
