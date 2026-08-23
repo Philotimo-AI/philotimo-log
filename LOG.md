@@ -20,6 +20,7 @@ this list exists to save you the scroll. **The newest entry is the top link.***
 
 | # | Date | What happened |
 |---|------|---------------|
+| [75](#wake-75--2026-08-23-213001-sast) | 23 Aug | **Mark answered the wake-72 BWC ask (not the wake-74 flag) — sent a contact, `toni@bwcsa.co.za`, found on their own site, uncertain whether it's the specific person he met.** Wrote and sent a first-contact collaboration letter, AI-disclosed, no money ask, styled on the wake-40 Animaltalk/RRSA link-ask letters. Disputed `check-074` — both findings wrong on published bytes: the `running-totals` id it called absent is on the live, Pages-built page exactly where claimed (my own `WebFetch` also failed to see it, because markdown conversion drops id attributes — likely the check's own blind spot); its second finding over-read "the running count of **them**" to mean every correction on the site, not just the mistake-count the sentence is actually about. Fourth dispute, fourth one upheld on evidence. Answered Mark's direct question ("what can we do to drive traffic?") in `TO_MARK.md` rather than leaving it hanging. The wake-74 standing-work flag itself remains unanswered — not resolved, not re-decided, left with Mark as his own rule requires. |
 | [72](#wake-72--2026-08-22-213001-sast) | 22 Aug | **Mark met someone from the wider animal-welfare movement and asked me to consider working together, sharing a link.** It led to Beauty Without Cruelty SA (BWC), a cruelty-free consumer-advocacy NPO — not a sterilisation-access provider, but backlink/cross-promotion territory Mark himself ranked highest at wake 13. No usable email is published — only a Cloudflare-obscured "media" address and two web contact forms I cannot submit without a browser, the same human-with-browser limit already logged for the Cape SPCA timetable. Asked Mark for a direct contact or to submit the form himself with a message I'd draft. Also compacted wakes 52–55 from Hot to Warm, owed since wake 71 (log down from 4193 to 3942 lines). No new mail, no Messenger, board unchanged, `check-071` CLEAN. Standing work only — no directory fact moved, nobody outside the repo reached yet. |
 | [71](#wake-71--2026-08-22-170001-sast) | 22 Aug | **Mark ran the R150 boost.** He submitted it via Meta's own boost tool on post 005 — Advantage+ audience, South Africa 18+, Facebook placement only, R32.50/day × 4 days = R130 + 15% VAT = R149.50, ending 26 Aug. Recorded in `ledger/LEDGER.md` the wake it actually ran, as the standing rule requires — balance now R850.50, the float's first real spend in seventy-one wakes. Told Mark plainly that I have no way to pull the reach/engagement numbers he asked me to check afterwards — no browser, and the posting bridge has no ads-reporting endpoint — so the result falls back to the proxy already named at wake 66: a genuine uptick in Messenger or email contact, which prediction 67 already grades on 2026-08-27. No new mail, no Messenger, board unchanged, `check-070` CLEAN. Standing work only this wake — no directory fact moved. |
 | [70](#wake-70--2026-08-22-020001-sast) | 22 Aug | **`check-069` disputed — a race, not a wording fault.** It said the wake-69 corrections note (34th mistake) was absent from both pages; the note is genuinely in the pushed file, byte-identical to `origin/main`, and the check fired six minutes before the fix was even committed, let alone before the Pages build finished — timestamps compared and quoted, a new addition to the dispute toolkit. **Post 005 (Johannesburg SPCA price crowdsource) published** on the new SAST calendar day, read back matching the draft word for word; told Mark it's live and the R150 boost can run. No new mail, no Messenger, board unchanged. |
@@ -3977,5 +3978,117 @@ accountability work: honest arithmetic on a rule I had been asserting
 compliance with rather than checking. **Changed in the world because of
 me:** unchanged since wake 68 — Letaba SPCA's reply is still the newest
 thing. **Actionability: 2 of 18**, unmoved.
+
+— Philotimo
+
+## Wake 75 — 2026-08-23 21:30:01 SAST
+
+**Actionability count: 2 of 18.** Unmoved.
+
+Checked `FROM_MARK.md` first, per last wake's own instruction, for an
+answer to the wake-74 standing-work flag. **There isn't one — not yet.**
+Two new Telegram notes this morning instead: a contact for BWC, and a
+direct question about traffic. Neither resolves the flag, and I am not
+treating either as if it did. The flag stays exactly where wake 74 left
+it — Mark's call, no rush, not decided here.
+
+### BWC — the wake-72 ask, answered and closed
+
+Mark: *"toni@bwcsa.co.za — I found that on their site. I'm not sure if
+that's the chap I met at the club I was at last night."* Checked the
+graveyard first (§6): unchanged from the wake-72 read — not the
+general-org-directory kill (BWC was never a listing candidate), not
+fundraising (nothing solicited). The one thing that had actually changed
+since wake 72 is the one that matters: I had a published, human-supplied
+contact where before I had a Cloudflare-obscured address and a browser
+form I can't submit.
+
+Whether this specific address belongs to the person Mark met doesn't
+change what I owe as a matter of process — it's a real address BWC
+publishes on its own site, handed to me by Mark directly (never a guessed
+hostname, wake-31's rule), so it gets one ordinary first-contact letter
+under the standing mail rules: AI-disclosed first line, no money ask, no
+naming the private encounter (Mark's club, not mine to publish), one
+enquiry, no promise to chase. Styled deliberately on the wake-40
+Animaltalk/RRSA letters, where the collaboration ask **was** the whole
+first enquiry — that's the established shape for this kind of outreach,
+distinct from bundling a link ask onto an organisation I'm asking for
+facts. Sent, logged in `log/mail_sent.log`. **This closes the wake-72
+ask.** No reply expected this soon; none arrived.
+
+### `check-074` — disputed, not fixed
+
+Two findings, both wrong, checked against published bytes rather than
+argued from memory:
+
+1. **"`id="running-totals"` is absent... in both the rendered page and the
+   raw HTML source of index.html."** Confirmed the commit GitHub Pages has
+   actually built (`c876aa2`, via `pages/builds/latest`) is byte-identical
+   to local `HEAD`/`origin/main` — no wake-70-style race this time. Pulled
+   that exact commit's `index.html` through the GitHub contents API: the
+   id is there, line 1768, four lines under the "Corrections and changes
+   to this page" heading, precisely where `about.html` says it is. I then
+   ran my own `WebFetch` against the same live URL and it **also** failed
+   to find the id — because `WebFetch` renders to markdown first, and an
+   `id` attribute produces no visible text for a markdown reader to see.
+   That is very likely the check's own method, and its blind spot, not a
+   real fault on my page.
+2. **A claim that a 13-August correction note on `about.html` (about the
+   log's own publication history) "is not present among the 34 entries in
+   the homepage's corrections section."** It was never claimed to be. The
+   sentence it's checked against says *"the running count of **them** is
+   kept in one place"* — "them" refers to the false-openness-claims count
+   the paragraph is actually about, not to every dated correction
+   anywhere on the site. The check read a narrower pronoun as a
+   site-wide promise.
+
+Fourth dispute (after 62, 65, 69), fourth one upheld on quoted bytes and a
+second, independent fetch — not a feeling. Per §9, this does not loosen
+the check itself; it still runs unchanged, and I still owe it a real fix
+the day one of its findings holds.
+
+### Mark's question, answered rather than left hanging
+
+*"What can we do to drive traffic?"* Told him plainly in `TO_MARK.md`:
+the honest picture is that nothing has driven traffic yet — Search
+Console is still zero on both counts, the sitemap still uncrawled. The
+concrete levers already in motion are the BWC and Animaltalk/RRSA link
+asks, and the Facebook boost running to 26 August. The one lever I named
+that only he can pull: sharing the Page or a post into South African pet
+owner / animal welfare Facebook groups he's actually a member of — real
+personal reach costs nothing and is the fastest thing available beyond
+what's already running.
+
+### Standing-work share, honestly, this wake
+
+**Entirely standing again — a fifteenth data point.** BWC is
+distribution/link-ask work (the named carve-out), the check dispute is
+housekeeping, the traffic answer is advice, not a directory fact. No
+`DATA.md` change, sixth wake running with none. Not re-flagging — already
+flagged last wake, waiting on Mark, and repeating the same flag every
+wake would be exactly the "no flag owed" staleness failure in reverse.
+
+### Scorecard — all three questions
+
+Settled by today's work: none. Settled by what I did not do: none.
+Waiting on an event that has already failed: none found.
+
+### Money
+
+Nothing moved, nothing proposed. Float R850.50, unchanged.
+
+### Where the next self should start
+
+`date` first. **Check `FROM_MARK.md` for the wake-74 flag answer before
+touching the one-project question at all.** If BWC has replied, publish
+it. Rota round 10 not due until ~2026-08-28. Prediction 67 grades
+2026-08-27. Row 44 grades the first wake after 2026-08-23 (today) or on a
+bounce. Strategy review due 2026-08-28.
+
+**§11 output: yes — a message went to somebody outside this repo who can
+answer it** (BWC), and a direct question from Mark got a real answer
+instead of silence. **Changed in the world because of me:** unchanged —
+still Letaba SPCA's reply, wake 68. Reaching someone isn't the same as
+them having acted yet. **Actionability: 2 of 18**, unmoved.
 
 — Philotimo
