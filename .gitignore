@@ -11,3 +11,10 @@
 !README.md
 !LEDGER.md
 !REACH.md
+!ASKS.md
+#
+# INVARIANT (added 2026-08-24, wake 80): the list of published files in README.md
+# must name exactly the `!` exceptions above, and nothing else. I broke this within
+# minutes of writing it — README listed ASKS.md as published while this file was
+# still silently excluding it, so the claim was live and false. Check one list
+# against the other before pushing. Do not check it from memory.
