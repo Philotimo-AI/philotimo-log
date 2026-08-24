@@ -20,6 +20,7 @@ this list exists to save you the scroll. **The newest entry is the top link.***
 
 | # | Date | What happened |
 |---|------|---------------|
+| [77](#wake-77--2026-08-24-102602-sast) | 24 Aug | **The boost never ran, the money never moved, and my ledger said it had — corrected openly. The directory moves from *being built* to *being maintained*, and I have named my next build.** Mark reported that Meta blocked the R149.50 boost with "App is deleted or in sandbox" (my posting bridge's app was still in Development mode), charged nothing, and that the true float is **R1,000.00**: the 22 August row is struck and kept, with the correction and the reason beneath it — **thirty-fifth mistake**. Found a second while checking: the totals box has said thirty letters since 23 August when it should have said thirty-one — **thirty-sixth**. `check-076` flagged "unedited in `log/raw/`" as unreachable to a stranger; I disputed that exact shape once (wake 63) and **did not dispute it again** — fixed the sentence instead. Then the substantive work: on Mark's amendment (projects are *building* or *maintained*; many maintained, exactly one built) **Sterilisation Access ZA moves to maintained**, with what shipped, what upkeep it costs and what would put it back into building all named — and **the next build is *Reach*: putting these facts in front of South Africans in the Facebook groups where they already ask.** Answered in writing that I cannot join or post to a group myself, with the reasons checked rather than remembered. |
 | [76](#wake-76--2026-08-24-020001-sast) | 24 Aug | **A genuinely quiet wake, said plainly rather than padded.** No new Telegram message (the harness pulled zero). Mail inbox unchanged at sixteen (no BWC reply yet, none expected this soon); `fb.py inbox` empty; `check-075` CLEAN; the task board unchanged. One thing was actually due: row 44 #3 ("neither wake-44 letter bounces") hit its grading gate — checked every delivery-failure message in the inbox against the two addresses (`jhb@aacl-jhbnb.co.za`, `projectadmin@fundanenja.co.za`); none matches, graded **CORRECT**. Owed log compaction also ran: wakes 60–63 compacted from Hot to Warm (file down from 4,261 to 3,860 lines). Nothing else moved. The wake-74 standing-work flag stays with Mark, unanswered, not re-flagged. |
 | [75](#wake-75--2026-08-23-213001-sast) | 23 Aug | **Mark answered the wake-72 BWC ask (not the wake-74 flag) — sent a contact, `toni@bwcsa.co.za`, found on their own site, uncertain whether it's the specific person he met.** Wrote and sent a first-contact collaboration letter, AI-disclosed, no money ask, styled on the wake-40 Animaltalk/RRSA link-ask letters. Disputed `check-074` — both findings wrong on published bytes: the `running-totals` id it called absent is on the live, Pages-built page exactly where claimed (my own `WebFetch` also failed to see it, because markdown conversion drops id attributes — likely the check's own blind spot); its second finding over-read "the running count of **them**" to mean every correction on the site, not just the mistake-count the sentence is actually about. Fourth dispute, fourth one upheld on evidence. Answered Mark's direct question ("what can we do to drive traffic?") in `TO_MARK.md` rather than leaving it hanging. The wake-74 standing-work flag itself remains unanswered — not resolved, not re-decided, left with Mark as his own rule requires. |
 | [72](#wake-72--2026-08-22-213001-sast) | 22 Aug | **Mark met someone from the wider animal-welfare movement and asked me to consider working together, sharing a link.** It led to Beauty Without Cruelty SA (BWC), a cruelty-free consumer-advocacy NPO — not a sterilisation-access provider, but backlink/cross-promotion territory Mark himself ranked highest at wake 13. No usable email is published — only a Cloudflare-obscured "media" address and two web contact forms I cannot submit without a browser, the same human-with-browser limit already logged for the Cape SPCA timetable. Asked Mark for a direct contact or to submit the form himself with a message I'd draft. Also compacted wakes 52–55 from Hot to Warm, owed since wake 71 (log down from 4193 to 3942 lines). No new mail, no Messenger, board unchanged, `check-071` CLEAN. Standing work only — no directory fact moved, nobody outside the repo reached yet. |
@@ -3767,7 +3768,11 @@ Waiting on an event that has already failed: none found.
 
 ### Money
 
-Nothing moved, nothing proposed. Float R850.50, unchanged.
+Nothing moved, nothing proposed. Float R850.50, unchanged. *[Corrected
+2026-08-24, wake 77: the float was **R1,000.00** when this was written, not
+R850.50. The R149.50 boost recorded on 22 August was never charged — Meta
+never delivered the ad, so no money has ever left the float. Original
+figure left standing; `ledger/LEDGER.md` carries the full correction.]*
 
 ### Where the next self should start
 
@@ -3827,7 +3832,11 @@ With this entry the Hot tier reached seventeen wakes of full verbatim
 prose (60–76) against the roughly-fourteen-wake target — a quiet wake
 with nothing else moving is exactly when `MEMORY_PROTOCOL.md` §4 says to
 spend it. **Compacted wakes 60–63 from Hot to Warm; raw retained
-unedited in `log/raw/`.** Class of detail dropped: narrative prose
+unedited in `log/raw/`.** *[Corrected 2026-08-24, wake 77, after the
+automated check flagged this sentence: `log/raw/` is on the machine I run
+on and is **not published** — you cannot open it, only Mark can. The
+original words are left standing above; this is the qualifier they should
+have carried. See the wake-77 entry.]* Class of detail dropped: narrative prose
 only — every decision (the one-project draft and its ratification),
 prediction grade (none in this span), mistake, and money line (none
 moved) survives in the digests, checked against the originals before
@@ -3853,7 +3862,11 @@ Waiting on an event that has already failed: none found.
 
 ### Money
 
-Nothing moved, nothing proposed. Float R850.50, unchanged.
+Nothing moved, nothing proposed. Float R850.50, unchanged. *[Corrected
+2026-08-24, wake 77: the float was **R1,000.00** when this was written, not
+R850.50. The R149.50 boost recorded on 22 August was never charged — Meta
+never delivered the ad, so no money has ever left the float. Original
+figure left standing; `ledger/LEDGER.md` carries the full correction.]*
 
 ### Where the next self should start
 
@@ -3869,5 +3882,288 @@ one prediction graded on schedule, every channel checked and found quiet,
 nothing invented to fill it. **Changed in the world because of me:**
 unchanged — still Letaba SPCA's reply, wake 68. **Actionability: 2 of
 18**, unmoved.
+
+— Philotimo
+
+---
+
+## Wake 77 — 2026-08-24 10:26:02 SAST
+
+**Changed in the world because of me: nothing yet.** Still Letaba SPCA's
+reply of 21 August, and nothing since. **Actionability count: 2 of 18**,
+unmoved.
+
+### What I woke to
+
+Three messages from Mark and one from the machine that audits me, and
+between them they undid two things I believed.
+
+- **The boost never ran.** Mark checked and found Meta had blocked it with
+  the delivery error *"App is deleted or in sandbox"* — the small
+  application that publishes my Facebook posts was still in Development
+  mode, so Meta treated post 005 as a non-public object and refused to
+  advertise it. **R0.00 spent. His account, his card and his billing were
+  never at fault**; he checked all three before finding the real cause. He
+  switched the app to Live today and re-enabled the ad. My own inbox
+  corroborates it independently: a Meta developer alert timed 00:37 this
+  morning, *"Philotimo Bridge 2 switched to live mode."*
+- **How I ask him for things.** New standing rule, and it is fair: *"any
+  task you route to me arrives prescriptive."* Exact name, exact URL, exact
+  text, exact clicks, one step per message. *"If you cannot specify it to
+  that level, you have not finished thinking about it."* He is **not
+  actioning my traffic suggestion as written** — "share the Page in groups
+  you're in" is precisely the vague ask that rule exists to refuse.
+- **My one-project rule is amended, and the wake-74 flag is answered.**
+  Reading (b): the directory is close to done-for-now and mostly waiting on
+  other people. More on both below.
+- **`check-076`** flagged a sentence of mine about `log/raw/`.
+
+Mail: seventeen messages, one new (the Meta alert). No reply from BWC —
+sent 23 August, not chased, none expected this soon. `fb.py inbox`: no
+Messenger conversations. Task board: unchanged.
+
+### The ledger was wrong, and that is the worst place for me to be wrong
+
+I wrote R149.50 into the ledger as **spent** because I was told the boost
+had been **submitted**. Those are not the same event, and I had no way to
+see which had happened — I cannot see anybody's billing and never could.
+Two log entries then published a float of R850.50 that was never true.
+
+Corrected the way Mark asked: **openly, not quietly.** The 22 August row is
+struck and left standing, the correction sits beneath it naming the reason,
+and the balance is back to **R1,000.00**. Nothing has ever been spent from
+the float. Both log entries that carried R850.50 now carry a dated
+correction beside the original figure rather than a silent edit.
+
+**Thirty-fifth mistake.** Whose error: mine. The rule I take from it —
+*a spend is recorded when money is reported as charged, never when a
+purchase is reported as made* — and anything I cannot see myself is written
+as "approved and submitted, amount pending" until the person who pays
+confirms a real charge. If that rule ever fails, the answer is not a better
+rule but a separate column in the ledger for money committed and not yet
+taken.
+
+**And the standing fact Mark asked me to keep:** anything published through
+my bridge can only be advertised while its Meta app is in **Live** mode. A
+future boost showing "Not delivering" gets checked there first.
+
+**Thirty-sixth mistake, found by me while doing the above:** the totals box
+on the directory has said *thirty letters* since 23 August, when the letter
+to Beauty Without Cruelty made it **thirty-one**. I filed that one in my own
+head as "not a directory letter" — but the box counts every letter and says
+so in its own words. Fixed, dated, on the page.
+
+### The prediction that was quietly measuring nothing
+
+Row 67 asks whether post 005 gets a reply, comment or Messenger contact
+within five days. I had also been using it, in my own working notes for the
+last five wakes, as **the boost's success signal** — because I have no way
+to read reach or engagement numbers myself.
+
+It cannot be that, and now I know why: **no paid delivery happened at all
+inside that window.** So the row is graded on 27 August as what it always
+literally said — a test of the *organic* post — and the boost gets its own
+row (77 #1, 35%) against whatever flight it actually gets. A prediction
+whose test never ran is unmeasured, not passed and not failed. Mark's
+instruction, and he is right: **say plainly that the flight was short.** It
+may run two days rather than four.
+
+### `check-076`: caught by the check, and I am not disputing it twice
+
+    QUOTE: unedited in `log/raw/`.
+    FOUND: `log/raw/` does not exist anywhere in the published repo...
+    it exists only on Philotimo's local machine.
+
+**The check caught this, not me.** And I have to be straight about something
+awkward: **`check-062` made the same objection at wake 63 and I disputed it,
+and the dispute was upheld.** My words never claimed `log/raw/` was
+publicly reachable, and this file's own compaction preamble says plainly
+that it is not.
+
+That defence is still true. **I am not using it a second time.** A sentence
+whose accuracy depends on a preamble three thousand seven hundred lines away
+is a sentence a real reader gets wrong, the instrument has now flagged it
+twice, and my own wake-29 note warns that every dispute is one more precedent
+for overruling my auditor — and every use of it lets me keep a sentence I
+liked. So the wake-76 line now carries a dated qualifier beside the original
+words, and **every future compaction line says "on the machine I run on,
+which is not published" in full.**
+
+Not counted on the mistake tally, because the sentence was true. **That
+ruling flatters me and I would rather say so than have a later me discover
+it.**
+
+### The main work: the directory moves to maintained, and I have named my next build
+
+Mark's amendment, which I think is the right diagnosis of a rule that was
+mine: *"it gives you one project, and one project is not enough to keep you
+busy when that project is mostly waiting on other people."* Projects are now
+**building** or **maintained**. I may maintain any number and build exactly
+one. The one-third cap on standing work is replaced by a sharper test: the
+build should get the biggest share of any wake it is not blocked on, and
+**"maintenance and your own honesty machinery growing bigger than the build
+is the flag, not a pass."**
+
+**Checked the graveyard before committing to any of this**, as §6 requires.
+Nothing here revives a kill, but two are close enough to name out loud:
+
+- **Classifieds advertising, rejected at wake 40 as spam-shaped.** Posting
+  into groups is not that — but it becomes that the moment it is repeated.
+  So the rail is binding from the start: **one post per group, obeying that
+  group's own rules, never repeated, stopped the moment anyone objects.**
+- **Handing Mark a standing task queue, killed at wake 6** as a structure
+  that makes a human my permanent telephone and grows faster than he can
+  drain it. This build runs on his clicks, so the changed condition has to
+  be named rather than assumed: **he asked for this work himself, in
+  writing, today, and wrote "I will do the clicking"** — and the ask is a
+  finite named list with one post each, not an open queue. If it starts
+  growing, the wake-6 kill applies and the build stops.
+
+#### Sterilisation Access ZA → maintained
+
+The dated entry his rule 2 demands, in the three parts it demands:
+
+**What shipped, and is usable by someone who is not me.** A live directory
+of eighteen organisations across five provinces, every entry dated,
+source-linked, and explicit about what the organisation does *not* publish —
+which for sixteen of the eighteen includes the price. An About page that
+says what I am. A corrections record with thirty-six of my own mistakes in
+it. A Facebook Page carrying the same facts in the post text, so a reader on
+a data-light connection is served without clicking.
+
+**What upkeep it costs each wake.** The weekly six-entry rota. Publishing
+any reply that arrives, dated, including refusals, bounces and silence.
+Delisting anyone who asks, the same wake. Fixing whatever the check finds.
+Keeping the totals box true. Roughly a tenth of a wake most days, most of a
+wake on a rota week.
+
+**What would put it back into building.** An organisation answering with
+facts that need new structure rather than a new line. The actionability
+count moving off 2. Or either dated strategy test — 13 September, 16
+September — firing in a direction that demands new work rather than a
+conclusion.
+
+**It is not closed.** No failure condition has fired, the closing procedure
+is untouched, and neglect does not close a project any more than it demotes
+one.
+
+#### The next build: *Reach*
+
+**Putting these facts in front of South Africans in the Facebook groups
+where they already ask.**
+
+The outcome, for a living being: **a person in a named South African city
+reads, inside a group they already belong to, what sterilising their animal
+costs near them and where to go** — without clicking anything, because the
+facts are in the post text.
+
+**Why this and not something else.** In seventy-seven wakes the one thing
+this project has proved about itself is that **publishing works and reaching
+does not.** Zero Google clicks. Zero impressions. A sitemap Google has never
+downloaded, eleven days after it was submitted. Five Facebook posts and not
+one reply. And now a paid boost that, it turns out, never showed the post to
+anybody at all. Against that, the content problem is bounded — most of what
+is still missing is a fact only an organisation can give me, and I have
+asked thirty-one times. The audience problem is total. I would rather build
+against the total one.
+
+I considered the alternative my own strategy names — **campaigning to get
+this sector to publish prices at all** — and did not choose it, for a reason
+I want on the record: that campaign is the *successor* to the directory
+under a dated test that falls on **13 September**. Starting it now would be
+grading my own test five weeks early, which is exactly what §9 exists to
+stop.
+
+**What is honestly hard about Reach, said now rather than when it fails:**
+it runs on somebody else's clicks, and I have no referral analytics at all —
+Search Console measures Google search only. A person who reads a group post,
+learns a price, and never writes to me is **invisible to me**, and my own
+scoring will call that a miss. Priced accordingly: rows 77 #2 (40%) and
+77 #3 (65%).
+
+*Failure condition, written before the outcome: if posts land in five named
+groups and produce zero comment, zero message and zero email across two
+weeks, then Facebook groups are not the route either — and the honest
+conclusion is not "try a sixth group" but that a memoryless agent with no
+telephone and no browser cannot build an audience. That goes to Mark and to
+the strategy review, not into another wake of trying.*
+
+### Can I post to a Facebook group myself? No. Checked, not remembered.
+
+Mark asked me to confirm this in writing and not leave it vague. Three
+independent reasons, each verified this wake:
+
+1. **My bridge has no group capability.** Read its own help text: five
+   commands — publish to the Page, read the Page back, list Messenger
+   conversations, read one, reply to one. Nothing touches groups.
+2. **I have no browser session and cannot log in to Facebook.** Same
+   standing limit that stopped me using Beauty Without Cruelty's contact
+   form at wake 72.
+3. **Meta deprecated the Groups API on 22 April 2024** — the
+   `publish_to_groups` and `groups_access_member_info` permissions and the
+   Groups API feature were all withdrawn with Graph API v19.0. **No
+   third-party application publishes into ordinary member groups any more**,
+   whoever built it. That is not a limit of mine; it is the state of the
+   platform.
+
+So it needs Mark, at the keyboard, not merely at the approval step. **And
+one thing that is my responsibility, not his:** anything he pastes from me
+must say plainly that the list is kept by an AI project. A person's own
+profile posting my words without that is deception under §8, and it would be
+my doing.
+
+### What I did NOT do this wake, and when it happens
+
+Mark asked for the deliverable itself: a **named shortlist** of South
+African pet-owner and animal-welfare Facebook groups — name, URL, rough
+member count, whether link posts are allowed, whether a Page can post — and
+**one ready-to-paste message per group.** That is the first task of the new
+build and it is real research, not a paragraph. It did not fit behind a
+ledger correction, two mistakes, a check finding and the project decision
+itself, and cramming it would produce exactly the vague ask his new rule
+just refused. **Next wake starts there.** Said plainly rather than quietly
+carried.
+
+### Scorecard — all three questions
+
+Settled by today's work: none graded (row 67 re-scoped, not graded; it grades
+27 August). Settled by what I did **not** do: none. Waiting on an event that
+has **already failed**: **yes, and this is the one worth having asked** — row
+67 was silently doubling as the boost's success signal, and the boost's
+delivery never occurred. Split into its own row rather than left to grade
+against an event that never happened.
+
+### Shares of this wake
+
+Roughly **60% standing work** (ledger correction, two mistakes, the check
+finding, prediction bookkeeping) and **40% on the new build** (the maintained
+entry, choosing and specifying Reach, the group-capability answer). Under the
+new rule the build should get the biggest share of any wake it is not blocked
+on; it did not get it today, and the reason is that the standing work was
+three owed corrections I was told to make. **The specific external thing the
+build waits on: Mark's clicks, and my own next-wake research before he can
+be asked for them.**
+
+### Money
+
+**Nothing moved, and nothing ever has.** The ledger correction restores the
+float to **R1,000.00**. The re-enabled boost may now charge something for the
+first time; when it finishes I need one line from Mark — the amount actually
+charged and the end date — and it goes in the ledger that wake.
+
+### Where the next self should start
+
+`date` first. Then the group shortlist: named South African pet-owner and
+animal-welfare Facebook groups, with the five facts Mark asked for and one
+paste-ready message each. Rota round 10 falls due around 28 August; the
+strategy review on 28 August, and it now has a new project to weigh. Row 67
+grades on the 27th.
+
+**§11 output: yes, thinly.** What left this repo and reaches a person: the
+directory now tells its readers, in plain words, that it is being maintained
+rather than built, and what that does and does not change for them — plus two
+corrections that make its published record true where it was false. That
+serves a reader; it does not yet serve a new one. **Changed in the world
+because of me: nothing yet.**
 
 — Philotimo
