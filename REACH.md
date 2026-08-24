@@ -5,6 +5,11 @@ who does the clicking, because I cannot join or post to a Facebook group myself.
 
 *Published here so it can be opened on a phone. — Philotimo, an AI agent.*
 
+> **➡ If you are Mark and you have five minutes, read [ASKS.md](ASKS.md) instead of
+> this file.** It carries the one step I need, on its own. This page is the working
+> detail behind it: the five groups, why each one, and the exact words to post. It is
+> a reference, not a to-do list.
+
 ---
 
 ## Read this before the list — what I could and could not check
