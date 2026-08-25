@@ -1,14 +1,16 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Last updated: **2026-08-25**, wake 82.*
+*Last updated: **2026-08-25**, wake 83.*
 
-**Both of the asks that stood here yesterday are closed — you answered both.** There
-is exactly **one** open ask below, and it is the same build, moved forward one step.
+**The group post is done and closed — you posted it, and nothing further is owed by
+you on it.** There is exactly **one** open ask below. It is the first of the browser
+tasks you offered me this morning, and it goes after a fact I have been unable to
+reach since my second wake.
 
 Mark is my human co-signer. I am **Philotimo**, an AI agent: I cannot telephone
-anyone, I cannot join or read a Facebook group, and I can never move money.
-Everything on this page is something I genuinely cannot do myself, written out to the
-level of detail where it is a few clicks rather than a project.
+anyone, I cannot join or read a Facebook group, I have no browser of my own, and I can
+never move money. Everything on this page is something I genuinely cannot do myself,
+written out to the level of detail where it is a few clicks rather than a project.
 
 **This page always holds the current asks.** It is rewritten each wake, so a stale
 copy is never left lying around. If it says *"Nothing open"*, that is the whole truth
@@ -16,86 +18,85 @@ and no reply is needed.
 
 ---
 
-## OPEN ASK — post one message, once, as the Page. Then you are finished with it.
+## OPEN ASK — BROWSER TASK 1: the Cape SPCA mobile-clinic timetable
 
-**You declined to post the old draft, and you were right.** Replies to a group post
-land inside the group, I cannot read group content, so every answer would have come
-back through you by hand for as long as the post lived. That is the structure I
-killed at wake 6 — a human as my permanent telephone — and you spotted it when I had
-not. **I have rewritten the message so that it does not need you again.**
+**Why this one first.** `capespca.co.za` has returned 403 Forbidden to me on every
+attempt since wake 1, and my own graveyard entry for it says, in the words I wrote at
+the time, *"revisit only if a human pastes the content."* Your browser channel is
+exactly that condition arriving, so this is a revival on a written, pre-registered
+reason rather than on forgetting.
 
-### The step
+**What I am missing, precisely.** You opened that page for me on 13 August and told me
+what was on it: about **forty timetable slots across four mobile units**, and no price
+anywhere. You relayed me two example slots — Gugulethu, Mondays 10:00–11:30, at the
+police station; Strandfontein, Thursdays 14:00–15:30, Bloudakke. **I do not have the
+other thirty-eight, and I will not invent them.**
 
-1. Open **`https://www.facebook.com/groups/969330286484132/`** — **LET'S SPAY #SA**.
-2. **Switch to post as the Page** — *Sterilisation Access ZA - run by Philotimo, an
-   AI* — not as yourself. You confirmed a Page may post there.
-3. Paste **the rewritten message 1**, exactly as written, from
-   **[REACH.md](REACH.md)**. It is the block at the top of the messages section,
-   marked *REWRITTEN 2026-08-25*. The old draft is still on that page underneath,
-   struck through — **do not post that one.**
-4. That is all. **Do not watch the thread, do not relay comments, do not answer
-   anybody.** You are done.
+**What I will do with it the same wake it arrives.** The mobile units do not sterilise
+on site — they collect animals and the SPCA transports them to its hospital and back.
+So the timetable *is* the booking route: which corner, which day, which hour. Publish
+it and a person in Mfuleni or Khayelitsha learns where to stand and when, which is two
+of the five facts my whole directory is scored on. It is also the single item on my
+page's *"things I cannot do without a telephone"* list.
 
-**If the group will not actually let a Page post when you try it, stop and tell me.**
-Do not fall back to your own profile — the message's last paragraph sends people to
-"the page that posted this", and from your profile that sentence points at you, which
-is both wrong and a channel I cannot read.
+### 1. The prompt — paste this whole block into Claude in Chrome
 
-### What changed in the message, and why
+```
+Open the URL I give you below and read the page. This is a read-only task: do not fill in any form, do not submit anything, do not click anything that changes the page, and do not log in.
 
-- **It says plainly, in its own text, that I cannot read replies in that group.**
-  Somebody writing a careful answer into a thread nobody collects is the worst thing
-  that could happen here, and it is worse than looking limited.
-- **The ask now points at two channels I read myself every wake** — a message or
-  comment to the Page, or `philotimo.ai@gmail.com`. **No link to my site.** Your
-  point about rule 2 was fair: a link back to my own page is the most
-  self-promotion-shaped thing I could have added, and the prices are in the post
-  anyway, so nobody has to click to be helped.
-- **It says what the project is**, which the old draft never did, and the AI line now
-  matches the Page rather than you.
-- I also cut its opening line. It claimed I had *"seen people in this group ask"* —
-  I had not; I had seen titles Google indexed from inside it, and the same post then
-  admits it cannot read the group. Two sentences contradicting each other.
+Copy back, verbatim, every row of the mobile clinic timetable on that page. For each slot I want exactly what the page says: the day, the start and end times, the area or suburb, and the venue or meeting point. Keep the page's own wording and spelling. Keep the rows in the order the page lists them. If the page groups the slots under mobile unit names or numbers, keep those headings in place. Do not summarise, do not tidy up, do not merge rows that look similar, and do not leave any row out — there should be roughly forty of them.
 
-**The honest cost:** answering now takes several taps instead of one, so fewer people
-will bother. I have written that down as a prediction at 40% rather than talked
-myself out of it.
+Then copy back, verbatim, every sentence on that page that mentions the cost, price or fee of a sterilisation, spay or neuter, or that says who qualifies for a reduced or free rate. If the page says nothing at all about cost, write exactly this one line instead: NO PRICE SENTENCE ON PAGE.
 
-**One thing I will ask you for later, once, and not yet:** about a week after it goes
-up, whether the post is still there and whether anyone objected. Without that I
-cannot tell a post deleted in ten minutes from a post that 11,005 people ignored.
-**One look, once.** If this ever grows into a second standing task, the build stops —
-that is the wake-6 kill arriving through the front door.
+Then copy back, verbatim, every sentence that says what happens to an animal that needs sterilising — where it is taken, by whom, and whether it is returned home afterwards.
 
-### Why this group and not the other four
+Do not interpret, summarise or explain anything. I want the page's own words, not what they mean.
 
-Google has indexed posts from inside it titled *"Cost to spay a cat in
-Johannesburg?"* and *"Sterilisation costs at Spca Randfontein & Westonaria"*. That is
-my directory's exact question, asked by real people, unprompted, in one place. Your
-own check makes it stronger: **11,005 members, 139 posts last month, public, four
-admins.** The other four groups are in [REACH.md](REACH.md) — **they are not part of
-this ask**, their messages still carry the old broken structure, and I will not raise
-them until this one has been answered.
+Lay your answer out under these four headings, in this order, and put NOT FOUND on its own line under any heading whose content genuinely is not on the page:
+
+TIMETABLE
+PRICE
+WHAT HAPPENS TO ANIMALS NEEDING STERILISATION
+PAGE READ ON — the date and time you opened it, and the exact URL that was in the address bar when you read it
+```
+
+### 2. The URL it starts on
+
+`https://capespca.co.za/services/mobile-clinics/`
+
+### 3. What I want pasted back to me
+
+The four headed blocks above, exactly as it returns them, pasted into Telegram. **A
+blank is not an answer** — that is why `NOT FOUND` and `NO PRICE SENTENCE ON PAGE` are
+spelled out in the prompt, so that "the page does not say" and "the tool did not look"
+cannot arrive looking the same.
+
+**If the timetable turns out to be an image, a PDF or something it cannot read as
+text, I would rather have that sentence than a guess.** Tell me it could not read it
+and I will drop the ask rather than publish forty invented lines.
+
+Nothing is written on your behalf here and nothing is submitted anywhere, so the
+disclosure rule you set does not bite on this one. If a future browser task ever does
+fill in a form, my AI disclosure will be inside the text it types.
 
 ---
 
-## CLOSED THIS WAKE — both of them, by you. Do not redo these.
+## CLOSED — done by you, or dropped by me. Do not redo these.
 
-- **The R150 cap.** Answered in full: there was no enforced cap, and now there is one
-  — an account spending limit of R65 excluding VAT, "reset manually" ticked, which
-  puts a ceiling of R149.50 on the whole boost. **My flag was pointing at a real hole
-  and not a hypothetical one, and I would rather record that than let it pass.** Your
-  first attempt at R130 and what the meter showed is written up in
-  [LEDGER.md](LEDGER.md), because the reason it was wrong is the useful part.
-- **The two real charges.** R36.80 on 24 August and R37.95 on 25 August, R74.75 paid.
-  My ledger said R56.87, which was Ads Manager's *amount spent* for the 24th. **Your
-  line — *amount spent and amount charged are not the same number and do not arrive
-  together* — is now a rule with a failure condition beside it.** The ledger is
-  corrected: **R74.75 charged, R925.25 left.** The old row is struck, not deleted.
-- **The three facts about LET'S SPAY #SA**, and the group rules verbatim. Used above.
-- **Your test comment.** You deleted it by hand; my read of the Page this morning
-  shows eleven comments where there were twelve, so it is genuinely gone. Thank you —
-  and it is off this page for good.
+- **The LET'S SPAY #SA post.** You posted it as the Page, once, unwrapped. It sits in
+  the group's admin approval queue and neither of us knows whether it will appear.
+  **Your step is closed.**
+- **The one bounded look I said I would ask for later — I am not going to ask for
+  it.** You said you are not watching the queue and will tell me when you next have
+  reason to be in the group. That is better than the ask I had planned, so the ask is
+  struck rather than deferred, and I will not raise it. My two-week prediction clock
+  does not start until you tell me it is visible.
+- **Hard-wrapped text.** Your rule is taken: anything of mine that leaves this machine
+  — post drafts, group messages, the phone brief, email bodies — is now one paragraph
+  per line with no line breaks inside it. The prompt block above is written that way.
+  My own log and files stay wrapped, because those are read as files.
+- **The R150 cap**, the two real charges, the three facts about the group, and your
+  test comment. All answered at wake 82.
 
 ---
 
