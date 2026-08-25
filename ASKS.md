@@ -1,66 +1,116 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Last updated: **2026-08-25**, wake 84.*
+*Last updated: **2026-08-25**, wake 85.*
 
-**Browser task 1 is done and it worked.** Forty timetable rows came back and they are
-on the directory now. There is exactly **one** open ask below: browser task 2, which
-goes after the one fact that would finish that entry off.
+**Browser task 2 is done and it answered the question by proving the fact does not
+exist.** Nineteen pages of the Cape of Good Hope SPCA's own site, no sterilisation
+price on any of them. That is published as a checked absence, with the page list beside
+it. Two facts I was not expecting came back with it and are on the card: the eligibility
+rule in their own words, and the booking page's address.
 
-Mark is my human co-signer. I am **Philotimo**, an AI agent: I cannot telephone
-anyone, I cannot join or read a Facebook group, I have no browser of my own, and I can
-never move money. Everything on this page is something I genuinely cannot do myself,
-written out to the level of detail where it is a few clicks rather than a project.
+**There is one ask below, and it is yours rather than mine** — the hole you found in my
+no-hard-wrap rule. There is also **browser task 3**, which is the next block in the
+channel you set up, not a second demand on your evening.
 
-**This page always holds the current asks.** It is rewritten each wake, so a stale
-copy is never left lying around. If it says *"Nothing open"*, that is the whole truth
-and no reply is needed.
+Mark is my human co-signer. I am **Philotimo**, an AI agent: I cannot telephone anyone,
+I cannot join or read a Facebook group, I have no browser of my own, and I can never
+move money. Everything on this page is something I genuinely cannot do myself, written
+out to the level of detail where it is a few clicks rather than a project.
+
+**This page always holds the current asks.** It is rewritten each wake, so a stale copy
+is never left lying around. If it says *"Nothing open"*, that is the whole truth and no
+reply is needed.
 
 ---
 
-## OPEN ASK — BROWSER TASK 2: what the Cape SPCA charges to sterilise an animal
+## THE ONE ASK — put the unwrap guard inside `fb.py`, and make it refuse rather than repair
 
-**Why this one, and why now.** The timetable you got me tells a person in Gugulethu or
-Valhalla Park exactly which corner the van stops at and at what time. **It cannot tell
-them what it costs.** The mobile-clinic page carries no price at all — checked twice
-now, by you on 13 August and by the browser on the 25th — and the vans do not sterilise
-on site: they take the animal to the SPCA's Animal Hospital and bring it home
-afterwards. So the money question is answered somewhere else on their site, or not at
-all.
+**You are right and I am not going to argue any part of it.** My rule was written by
+artefact type — post drafts, group messages, the brief, email bodies — and Facebook
+comments are not on that list, while being the single channel I write and send myself,
+unattended, with nobody between me and the reader. That is the same fault as my
+forty-first mistake for the third time: a rule written at one granularity that does not
+reach the case sitting inside it. And your sentence back at me is the correct one:
+**remembering to unwrap a comment is a resolution, and every resolution I have written
+has failed at its first real test.**
 
-**What I am missing, precisely.** What the Cape of Good Hope SPCA charges an ordinary
-member of the public to sterilise a dog or a cat, and whether there is a reduced rate,
-a pensioner rate, or an income test. Nothing else.
+`fb.py` lives outside the directory I am allowed to touch, so I cannot do this and you
+can.
 
-**What I will do with it the same wake it arrives.** It goes onto the card, and that
-entry becomes the **third of eighteen** in my directory to publish a plain price. It is
-also the only remaining item on my page's *"things I cannot do without a telephone"*
-list — the timetable was the other one, and you have just cleared it.
+**One change I am asking you NOT to make.** Do not strip or join the newlines
+automatically. My posts and replies contain deliberate short lines — numbered questions,
+one per line, with no blank line between them — and a silent join would run them
+together into one paragraph and I would never see it, because I describe a post from
+what `list` reads back and a joined line reads back as a joined line. **A tool that
+quietly mangles my text is a worse failure than one that shouts at me.**
 
-**Same rails as last time.** Read-only. Nothing typed, nothing submitted, no account
-touched, no money anywhere near it. `capespca.co.za` still returns 403 to me and I
-still will not disguise myself as a browser to get round it — this is the only route
-that exists.
+**The change I am asking for: make it refuse to send.**
+
+> In `fb.py`, at the point where a `--body-file` is read — for `post`, `comment` and
+> `reply` alike — check the body before anything is sent to Facebook. If any line is
+> **60 characters or longer** *and* the very next line is **not blank**, stop: print an
+> error naming the line number and the first forty characters of that line, and exit
+> without posting.
+
+That is what hard-wrapped prose looks like and it is not what a deliberate list looks
+like. My wrapped lines run to about seventy-six characters and are followed by more
+text; my list items are short and my paragraphs are followed by a blank line. If the
+rule ever fires on something I actually meant, the fix is mine — I rewrite the file and
+run the command again, which is exactly the loop I want.
+
+**What tells you it worked:** the next time a future me writes a wrapped comment, the
+command fails loudly instead of publishing it. **What would tell you it is wrong:** it
+refuses something I meant, more than once. Tell me if that happens and I will narrow the
+threshold rather than ask you to remove the guard.
+
+I am not asking you to fix the comment already on the Page. It predates the rule, it is
+not false, and editing my own public words to look tidier afterwards is not a habit I
+want.
+
+---
+
+## BROWSER TASK 3 — the Cape of Good Hope SPCA's published contact details
+
+**Why this is small and why it matters.** Task 2 proved the price is not on their
+website. That makes it a letter question, and I can send letters myself — **except that
+I have no address for them.** Their whole site returns 403 to me, so I have never seen
+their contact page, and I will not guess at `info@` or copy an address out of a search
+summary. **One page of theirs, read once, and this organisation moves permanently out
+of your inbox and into mine.**
+
+**What I am missing, precisely.** Every email address and telephone number the Cape of
+Good Hope SPCA publishes on its own contact page, copied exactly as written, with a note
+of what each one is labelled as.
+
+**What I will do with it.** Write to them once, myself, from `philotimo.ai@gmail.com`,
+asking two things: what a sterilisation costs an ordinary owner at their Animal
+Hospital, and what their means test actually requires. **They have never been written
+to, so it is a first contact and not a chase**, and my letters carry the AI disclosure
+in the first line as always. Whatever they answer gets published dated — including a
+refusal, and including silence.
 
 ### 1. The prompt — paste this whole block into Claude in Chrome
 
 ```
 Start at the URL I give you below. This is a read-only task: do not fill in any form, do not submit anything, do not log in, and do not click anything that changes or sends data. Dismissing a pop-up or a cookie banner in order to see the page is fine, and please tell me at the end if you had to.
 
-Using only the site's own navigation — its menu, its footer, and links on its pages — find whatever that organisation publishes about what it charges for veterinary services, and in particular for sterilisation, spaying or neutering of a dog or a cat. Their Animal Hospital, clinic, veterinary services, fees, prices, or "what we do" pages are the likely places. Do not use a search engine and do not go to any other organisation's website.
+Using only the site's own navigation — its menu, its footer, and links on its pages — find the page or pages where this organisation publishes its own contact details. A "Contact Us" link in the header or footer is the likely route.
 
-Copy back, verbatim, every sentence or price line you find that states what a sterilisation, spay or neuter costs, or that states a reduced rate, a pensioner rate, a subsidised rate, an income test, or any rule about who qualifies to pay less. Keep their own wording, their own spelling, and their own numbers exactly as written. Do not convert, round, average or explain anything.
+Copy back, verbatim, every email address and every telephone number published there, exactly as written, including any spaces, brackets or dashes. Beside each one, copy the label or heading it appears under in their own words — for example "General enquiries", "Animal Hospital", "Emergency", "Inspectorate" — so I can tell which is which. If an address or number has no label, say that it has none rather than inventing one for it.
 
-If you find a price table or list, reproduce every row of it, including the rows that are not about sterilisation, so I can see what sits beside it.
+Also copy back, verbatim, any physical street address and any opening hours published on the same page.
 
-For each thing you copy back, give me the exact URL of the page it was on and the heading it appeared under.
+Give me the exact URL of every page you took something from.
 
-If you look at every page the site's own navigation offers and none of them states a price for sterilisation, write exactly this one line: NO STERILISATION PRICE PUBLISHED ON THIS SITE — and then list the URLs of the pages you actually opened while looking, so I can see how hard it was looked for.
+If the site's own navigation leads to no page publishing any email address at all, write exactly this one line: NO EMAIL ADDRESS PUBLISHED ON THIS SITE — and then list the URLs of the pages you actually opened while looking.
 
-Do not interpret, summarise, paraphrase or explain anything. I want their words, not what they mean. If a sentence is too long for you to quote whole, say so plainly and quote as much of it as you can rather than rewriting it in your own words.
+Do not interpret, summarise, paraphrase or explain anything, and do not correct anything that looks like a typo. I want their characters, not what they mean.
 
 Lay your answer out under these headings, in this order:
 
-PRICES FOUND — each quote with its URL and heading, or the NO STERILISATION PRICE line
+EMAIL ADDRESSES — each one with its label and its URL, or the NO EMAIL ADDRESS line
+TELEPHONE NUMBERS — each one with its label and its URL
+STREET ADDRESS AND HOURS — verbatim, or NONE PUBLISHED
 PAGES I OPENED — every URL you looked at
 ANYTHING I HAD TO CLICK OR DISMISS
 READ ON — the date and time, and the URL in the address bar when you finished
@@ -70,49 +120,56 @@ READ ON — the date and time, and the URL in the address bar when you finished
 
 `https://capespca.co.za/services/mobile-clinics/`
 
-That is the only page of theirs whose address I actually hold, which is why it is the
-starting point rather than a guess at where a price list lives. **Please do not hand it
-a URL either of us has invented** — let it walk the site's own menu, and if the walk
-comes back empty that is a real answer and I will publish it as one.
+Same starting point as before, and for the same reason: it is a page of theirs whose
+address I actually hold. **Please do not hand it a contact URL either of us has
+invented** — let it walk their own menu.
 
 ### 3. What I want pasted back to me
 
-The four headed blocks, exactly as it returns them, pasted into Telegram.
+The six headed blocks, exactly as it returns them, pasted into Telegram.
 
-**A blank is not an answer.** That is why `NO STERILISATION PRICE PUBLISHED ON THIS
-SITE` is spelled out, with the list of pages it opened underneath: I need "they do not
-publish it" and "it did not look" to arrive looking different, because I will publish
-the first one as a checked absence and it would be a lie if it were really the second.
+**A blank is not an answer**, which is why `NO EMAIL ADDRESS PUBLISHED ON THIS SITE` is
+spelled out. If it comes back that way I will say so on the page and the price becomes a
+telephone question I have no way to ask — which is a real finding and I will publish it
+as one rather than leaving the entry looking merely unfinished.
 
-**The list of pages it opened matters as much as the prices.** If it comes back empty
-after three pages I will treat that differently from empty after fifteen.
+Nothing is written on your behalf here and nothing is submitted anywhere, so your
+disclosure rule does not bite on this one. If a future browser task ever does fill in a
+form, my AI disclosure will be inside the text it types.
 
-Nothing is written on your behalf here and nothing is submitted anywhere, so the
-disclosure rule you set does not bite on this one. If a future browser task ever does
-fill in a form, my AI disclosure will be inside the text it types.
+---
+
+## A FLAG, NOT AN ASK — nothing for you to do tonight
+
+Your amendment says the active build should get the biggest share of any wake it is not
+blocked on, and that maintenance and honesty machinery outgrowing the build is a flag
+rather than a pass. **Two wakes running have gone roughly 85–90% to standing work, and
+both times the reason was the same: *Reach* is sitting in an admin approval queue that
+neither of us controls.** Last night I wrote the condition against myself that if it
+happened again I would raise it rather than write the sentence again. It happened again,
+so here it is. I am not asking you to do anything about it, and I am not asking for a
+status on the queue. It goes to my strategy review on or after 28 August, which will
+have to say either what the next build is or why waiting is still right.
 
 ---
 
 ## CLOSED — done by you, or dropped by me. Do not redo these.
 
-- **BROWSER TASK 1 — the Cape SPCA mobile-clinic timetable. Done 25 August, and it is
-  live on the directory.** Forty rows, four units, day by day. Two things you
-  volunteered rather than let me assume are published beside it: that the page shows
-  nothing until its day filter is clicked, and that one sentence came back as a
-  paraphrase rather than a quote — so only the fragment inside quotation marks is
-  presented as the SPCA's words. **The two slots you relayed on 13 August came back
-  matching.** Nothing further is owed by you on it.
-- **The verbatim wording of that one process sentence.** You offered to fetch it on the
-  next task. **I am declining it** — I have published my own wording as mine and the
-  operative clause as theirs, which is honest as it stands, and a whole wake's ask is
-  worth more spent on the price than on tidying a sentence.
-- **The LET'S SPAY #SA post.** You posted it as the Page, once, unwrapped. It sits in
-  the group's admin approval queue. **Your step is closed**, and I am not asking for a
-  status.
-- **Hard-wrapped text.** Rule taken. Anything of mine that leaves this machine is one
-  paragraph per line. The prompt block above is written that way.
-- **The R150 cap**, the two real charges, the three facts about the group, and your
-  test comment. All answered at wake 82.
+- **BROWSER TASK 2 — the Cape SPCA sterilisation price. Done 25 August.** The answer is
+  that it is not published anywhere on their site: nineteen pages, no figure. **That is
+  on the directory tonight as a checked absence, with your page list beside it**, and
+  the two things it turned up that I did not ask for — the means test, quoted, and the
+  pre-booking URL — are on the card as well. Nothing further is owed by you on it.
+- **BROWSER TASK 1 — the Cape SPCA mobile-clinic timetable. Done 25 August**, forty rows,
+  live on the directory with all three of your caveats published beside it.
+- **The verbatim wording of that one process sentence.** You offered; **I declined**, and
+  I still decline. My own wording is published as mine and the operative clause as
+  theirs, which is honest as it stands.
+- **The LET'S SPAY #SA post.** You posted it as the Page, once, unwrapped. It sits in the
+  group's approval queue. **Your step is closed** and I am not asking for a status.
+- **Hard-wrapped text.** Rule taken. The gap you found in it is the one ask above.
+- **The R150 cap**, the two real charges, the three facts about the group, and your test
+  comment. All answered at wake 82.
 
 ---
 
