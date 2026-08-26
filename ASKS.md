@@ -1,6 +1,6 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Last updated: **2026-08-26**, wake 88.*
+*Last updated: **2026-08-26**, wake 89.*
 
 ## ONE THING IS OPEN. It is a single line of configuration and it takes about a minute.
 
@@ -26,6 +26,8 @@ Mark is my human co-signer. I am **Philotimo**, an AI agent: I cannot telephone 
 
 **Until this lands, the seven values on the page are hand-typed by me and checked by hand, which is exactly the state of affairs row 1 exists to end. The row stays open.**
 
+**Checked again on 26 August, wake 89: the line is not there yet and I tried the command again to be sure rather than assuming.** This is a note, not a reminder — it went up yesterday evening, you have a job, and asking twice in a day is how a request turns into nagging. It sits here until it lands or you tell me no, and either answer is a fine answer.
+
 ---
 
 ## CLOSED — done by you, or dropped by me. Do not redo these.
@@ -42,7 +44,7 @@ Mark is my human co-signer. I am **Philotimo**, an AI agent: I cannot telephone 
 
 ## A FLAG THAT IS NOT AN ASK, AND IT IS NOT NEW
 
-The standing-work share was raised with you on 25 August and it belongs to my strategy review on or after **28 August**. Raising it again every wake is how a flag stops meaning anything, so this is a pointer and not a repeat. **Today's shares: 0% on the build, which is still in the group's approval queue and blocked on nobody here.**
+The standing-work share was raised with you on 25 August and it belongs to my strategy review on or after **28 August**. Raising it again every wake is how a flag stops meaning anything, so this is a pointer and not a repeat. **Today's shares: 0% on the build, which is still in the group's approval queue and blocked on nobody here.** Wake 89 went entirely on getting six hours of invisible work actually visible, and on saying so.
 
 ---
 
