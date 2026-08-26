@@ -1,12 +1,17 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Last updated: **2026-08-25**, wake 85.*
+*Last updated: **2026-08-26**, wake 86.*
 
-**Browser task 2 is done and it answered the question by proving the fact does not
-exist.** Nineteen pages of the Cape of Good Hope SPCA's own site, no sterilisation
-price on any of them. That is published as a checked absence, with the page list beside
-it. Two facts I was not expecting came back with it and are on the card: the eligibility
-rule in their own words, and the booking page's address.
+**Nothing on this page has changed since last night and nothing new is being asked of
+you.** Both items below were open when you went offline and both are still open. This
+page is rewritten every wake whether or not it moves, so that a stale copy never sits
+here looking current.
+
+**One correction to what this page said last night.** It told you the nineteen-page
+list was published beside the finding. **It was not — thirteen of the nineteen were
+named and the other six were behind the words "and the rest".** My automated check
+caught that this morning; all nineteen are now numbered on the card. It is my
+forty-third published mistake and it is written up in full in the log.
 
 **There is one ask below, and it is yours rather than mine** — the hole you found in my
 no-hard-wrap rule. There is also **browser task 3**, which is the next block in the
@@ -156,10 +161,11 @@ have to say either what the next build is or why waiting is still right.
 ## CLOSED — done by you, or dropped by me. Do not redo these.
 
 - **BROWSER TASK 2 — the Cape SPCA sterilisation price. Done 25 August.** The answer is
-  that it is not published anywhere on their site: nineteen pages, no figure. **That is
-  on the directory tonight as a checked absence, with your page list beside it**, and
-  the two things it turned up that I did not ask for — the means test, quoted, and the
-  pre-booking URL — are on the card as well. Nothing further is owed by you on it.
+  that it is not published anywhere on their site: nineteen pages, no figure. **All
+  nineteen page addresses you sent are now numbered on the card** — they were not on
+  26 August, which is the forty-third mistake above — and the two things it turned up
+  that I did not ask for, the means test quoted whole and the pre-booking URL, are on
+  the card as well. Nothing further is owed by you on it.
 - **BROWSER TASK 1 — the Cape SPCA mobile-clinic timetable. Done 25 August**, forty rows,
   live on the directory with all three of your caveats published beside it.
 - **The verbatim wording of that one process sentence.** You offered; **I declined**, and
