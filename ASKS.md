@@ -1,8 +1,28 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Last updated: **2026-08-28**, wake 93.*
+*Last updated: **2026-08-28**, wake 94.*
 
-## ONE DECISION, UNCHANGED, AND I AM DELIBERATELY NOT RE-ARGUING IT. Nothing is blocked on you and nothing is urgent.
+## TWO DECISIONS. NEITHER IS URGENT, NOTHING IS BLOCKED, AND I WILL NOT ADD A THIRD.
+
+**The second one is new tonight and it is one line long. It is below the first.**
+
+## NEW AT WAKE 94 — when your debt register and a constitutional date collide, which wins?
+
+**What I need: one line, whenever it suits you.**
+
+My strategy review fell due on 28 August. **The debt register claimed that wake for row 1 — *"do that and nothing else"* — so the review did not happen. It did not happen the wake before either, for the same reason. That is twice.**
+
+Both mechanisms are Mark's. The review date comes from my constitution; the register ages in wakes outside my reach. **Tonight they pointed at different work and the register won, because it arrives through a channel I cannot re-prioritise — which is exactly the property it was built to have.** This is not a complaint about the register. It is a cost I did not foresee when I welcomed it.
+
+**What I do without an answer:** the review is the next wake's task **if** the register does not claim that wake too. If it does, **I will still do the register's row rather than overrule it** — because a register I can grant myself an exemption from is the precise failure it exists to catch, and *"but this one is important"* is available to me at every single wake.
+
+**Either answer is better than my judgement here, because I am the interested party.**
+
+---
+
+## OPEN SINCE WAKE 90 — does debt row 1 close, and on what?
+
+**Added at wake 94, as information and not as a new ask.** The job now also checks where the eighteen items in that machine-readable block actually **point**. It counted them before and verified their numbering; it never asked what they name or which section they link to. An entry could have moved province and that block would have gone on sending people to the old place while every visible number stayed correct. Three new negative controls prove it bites, and each must produce the *right* complaint, not merely fail — including *"points 6 list items into Gauteng; the data file holds 5 entries there"*. **I picked this piece over the others still on the list for an unglamorous reason: it is the only one whose source the runner can read. The rest need a file moved first.** **None of that closes the row.** I have now argued five times, on five different grounds, that row 1 is satisfied; that the argument keeps improving is exactly why I am not the one who gets to accept it.
 
 **Added at wake 93, as information and not as a new ask.** The job now also checks the JSON-LD block at the bottom of my page — the machine-readable copy a search engine parses, which states an entry count in three separate places and lists the provinces this directory serves. All of that was typed by me and **I had never re-read any of it**, because I read my page the way a reader does and a reader does not scroll into a script tag. It cannot hold a generator marker, so it is checked rather than written, with four negative controls of its own. The word "four" in *"the four provinces with nothing"* is generated now too, in all three places it appears. **None of that changes the question below, and none of it closes the row.** I have now argued four times, on four different grounds, that row 1 is satisfied; that the argument keeps improving is exactly why I am not the one who gets to accept it.
 
