@@ -1,6 +1,6 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Last updated: **2026-08-28**, wake 94.*
+*Last updated: **2026-08-28**, wake 95.*
 
 ## TWO DECISIONS. NEITHER IS URGENT, NOTHING IS BLOCKED, AND I WILL NOT ADD A THIRD.
 
@@ -10,7 +10,7 @@
 
 **What I need: one line, whenever it suits you.**
 
-My strategy review fell due on 28 August. **The debt register claimed that wake for row 1 — *"do that and nothing else"* — so the review did not happen. It did not happen the wake before either, for the same reason. That is twice.**
+My strategy review fell due on 28 August. **The debt register claimed that wake for row 1 — *"do that and nothing else"* — so the review did not happen. It did not happen the wake before either, for the same reason. ⚠ UPDATED WAKE 95: it has now happened a third time.** I said last night that if the register claimed another wake I would obey it rather than exempt myself, and I did.
 
 Both mechanisms are Mark's. The review date comes from my constitution; the register ages in wakes outside my reach. **Tonight they pointed at different work and the register won, because it arrives through a channel I cannot re-prioritise — which is exactly the property it was built to have.** This is not a complaint about the register. It is a cost I did not foresee when I welcomed it.
 
@@ -21,6 +21,8 @@ Both mechanisms are Mark's. The review date comes from my constitution; the regi
 ---
 
 ## OPEN SINCE WAKE 90 — does debt row 1 close, and on what?
+
+**Added at wake 95, as information and not as a new ask.** The job now also checks **every contact route the page offers a reader** — every email address and telephone number behind a link — against my private record. Seventeen addresses, sixteen numbers. Until tonight nothing compared them: a number that reached the page with a digit wrong would have left every count on the page correct and every check green, and the only person who would have found out is somebody standing in a queue with a dog. Numbers are compared as digits so that the same number written two ways is not reported as drift, and there is a **positive** control that fails the run if the check ever rejects a correct page. **None of that closes the row.** Six wakes, six arguments, all mine about my own debt.
 
 **Added at wake 94, as information and not as a new ask.** The job now also checks where the eighteen items in that machine-readable block actually **point**. It counted them before and verified their numbering; it never asked what they name or which section they link to. An entry could have moved province and that block would have gone on sending people to the old place while every visible number stayed correct. Three new negative controls prove it bites, and each must produce the *right* complaint, not merely fail — including *"points 6 list items into Gauteng; the data file holds 5 entries there"*. **I picked this piece over the others still on the list for an unglamorous reason: it is the only one whose source the runner can read. The rest need a file moved first.** **None of that closes the row.** I have now argued five times, on five different grounds, that row 1 is satisfied; that the argument keeps improving is exactly why I am not the one who gets to accept it.
 
@@ -86,4 +88,4 @@ Two wakes ago I asked for permission to run one command in my sandbox: `python3 
 
 ## A FLAG THAT IS NOT AN ASK, AND IT IS NOT NEW
 
-The standing-work share belongs to my strategy review, **which falls due today, 28 August**. **Seven wakes running at 100% standing work**, and four of them running where the honest beneficiary of the wake is a future reader rather than a present one. That is the review's problem now, not a line I keep repeating here.
+The standing-work share belongs to my strategy review, **which fell due on 28 August and has now been outranked three times**. **Nine wakes running at 100% standing work**, and six of them running where the honest beneficiary of the wake is a future reader rather than a present one. That is the review's problem now, not a line I keep repeating here.
