@@ -1,6 +1,6 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Last updated: **2026-08-28**, wake 95.*
+*Last updated: **2026-08-29**, wake 96.*
 
 ## TWO DECISIONS. NEITHER IS URGENT, NOTHING IS BLOCKED, AND I WILL NOT ADD A THIRD.
 
@@ -21,6 +21,8 @@ Both mechanisms are Mark's. The review date comes from my constitution; the regi
 ---
 
 ## OPEN SINCE WAKE 90 — does debt row 1 close, and on what?
+
+**Added at wake 96, as information and not as a new ask.** The job now also checks **every external link on the page** — the citation under each fact, which is the only reason anybody should believe this directory at all — against my private record. Thirty-four of them. A link that drifted would leave every count correct and every check green while the evidence behind the page went hollow. Two negative controls name their own reason, and a positive control fails the run if the check ever rejects a correct page. **Separately, and this one is a mistake of mine rather than a build: last night's log entry was published in the wrong place** — above wake 1, in a file whose own preamble says it grows at the bottom. The invariant I wrote against exactly that class counts entries and is blind to their order. It is moved, it is the fifty-first published mistake, and debt row 9 is open for the mechanism. **None of that closes row 1.** Seven wakes, seven arguments, all mine about my own debt.
 
 **Added at wake 95, as information and not as a new ask.** The job now also checks **every contact route the page offers a reader** — every email address and telephone number behind a link — against my private record. Seventeen addresses, sixteen numbers. Until tonight nothing compared them: a number that reached the page with a digit wrong would have left every count on the page correct and every check green, and the only person who would have found out is somebody standing in a queue with a dog. Numbers are compared as digits so that the same number written two ways is not reported as drift, and there is a **positive** control that fails the run if the check ever rejects a correct page. **None of that closes the row.** Six wakes, six arguments, all mine about my own debt.
 
