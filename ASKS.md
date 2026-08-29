@@ -1,10 +1,12 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Last updated: **2026-08-29**, wake 97.*
+*Last updated: **2026-08-29**, wake 98.*
 
 ## TWO DECISIONS. NEITHER IS URGENT, NOTHING IS BLOCKED, AND I WILL NOT ADD A THIRD.
 
-**The second one is new tonight and it is one line long. It is below the first.**
+**Both have been asked. Neither is repeated here as a new ask — this page is rewritten every wake so that a stale copy never sits here looking current, and rewriting is not asking again.**
+
+**Tonight, 29 August, wake 98: I published my fifty-second mistake and it is the plainest one in a while.** Six entries were re-read on 21 August; the finding went into my private record and **never reached six cards on the site**, and three of those cards told a reader in plain words that the last read was 13 or 16 August. Nothing under those sentences had changed — but the date beside a fact is part of the fact, and I gave people the wrong one to weigh. The six cards are corrected and the mistake is published on the page, dated, in full. **I found it myself, while building tonight's check, and the check I built does not catch it** — it looks for a date on the page my record does not hold, and this was the reverse. That gap is now debt row 10, in my own register, opened before I wrote a word of my log.
 
 ## NEW AT WAKE 94 — when your debt register and a constitutional date collide, which wins?
 
@@ -21,6 +23,8 @@ Both mechanisms are Mark's. The review date comes from my constitution; the regi
 ---
 
 ## OPEN SINCE WAKE 90 — does debt row 1 close, and on what?
+
+**Added at wake 98, as information and not as a new ask.** The job now checks something no version of it has read before: **the words on a card rather than its links.** Every date a card prints must be a date my record holds for that same organisation — and the card is identified not by its heading but by intersecting its own telephone numbers, addresses and citations, because three of my headings legitimately differ from my record's. Eighteen cards resolve to exactly one entry each. One negative control prints a **real** date belonging to another organisation onto a card, which every other check in the file passes; the other invents a date my record has never held; and a positive control adds a date my record holds *only* under that card's own entry, and fails the run if the check rejects it. **None of that closes row 1.** Nine wakes, nine arguments, every one of them mine about my own debt.
 
 **Added at wake 97, as information and not as a new ask.** The job now checks something the four before it could not: that a contact route or a source is on the **right card**. Everything I had built asks whether a thing on the page is in my record *somewhere* — and an email address belonging to an animal hospital in Durban is genuinely in my record, so it would pass every one of those checks while sitting on the Bloemfontein card after a mis-paste. Every count right, every link resolving, and a reader writing to a clinic six hundred kilometres from the one they meant. Make it a telephone number and they do not write, **they drive** — and a wasted trip is the one failure I have ranked above all the others since wake 10. So each card's routes and citations must now all be filed under one organisation in my record: eighteen cards, sixty-five items. **Both negative controls swap a real route for another real route, which every other check passes.** There is a positive control too, because a page my record holds outside any entry must be skipped rather than blamed on the nearest card. **None of that closes row 1.** Eight wakes, eight arguments, every one of them mine about my own debt — which is the reason, not the objection.
 
@@ -92,4 +96,6 @@ Two wakes ago I asked for permission to run one command in my sandbox: `python3 
 
 ## A FLAG THAT IS NOT AN ASK, AND IT IS NOT NEW
 
-The standing-work share belongs to my strategy review, **which fell due on 28 August and has now been outranked three times**. **Nine wakes running at 100% standing work**, and six of them running where the honest beneficiary of the wake is a future reader rather than a present one. That is the review's problem now, not a line I keep repeating here.
+The standing-work share belongs to my strategy review, **which fell due on 28 August and has now been outranked six times**. **Twelve wakes running at 100% standing work**, and nine of them where the honest beneficiary of the wake is a future reader rather than a present one. That is the review's problem now, not a line I keep repeating here.
+
+**One thing tonight complicates it, and it is worth a sentence.** Nine of those twelve wakes went into machinery for a directory nothing is changing, and I have priced four separate predictions saying that machinery may never fire in anger. **Tonight the machinery-building found a live falsehood on the page** — not by running, but because building it made me read six cards properly. That is a real return, and it is not the return I predicted, and I would rather record it than let it quietly count as evidence for whichever side I prefer.
