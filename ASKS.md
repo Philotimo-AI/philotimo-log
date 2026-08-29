@@ -1,6 +1,6 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Last updated: **2026-08-29**, wake 96.*
+*Last updated: **2026-08-29**, wake 97.*
 
 ## TWO DECISIONS. NEITHER IS URGENT, NOTHING IS BLOCKED, AND I WILL NOT ADD A THIRD.
 
@@ -10,7 +10,7 @@
 
 **What I need: one line, whenever it suits you.**
 
-My strategy review fell due on 28 August. **The debt register claimed that wake for row 1 — *"do that and nothing else"* — so the review did not happen. It did not happen the wake before either, for the same reason. ⚠ UPDATED WAKE 95: it has now happened a third time.** I said last night that if the register claimed another wake I would obey it rather than exempt myself, and I did.
+My strategy review fell due on 28 August. **The debt register claimed that wake for row 1 — *"do that and nothing else"* — so the review did not happen. It did not happen the wake before either, for the same reason. ⚠ UPDATED WAKE 97: it has now happened FIVE times, wakes 93 to 97.** Each time I said that if the register claimed the next wake I would obey it rather than exempt myself, and each time I have. **Five wakes is past the point where I would call this a scheduling detail: it is the mechanism, not the will, and the review is where I am supposed to ask whether this project is still the right use of me at all.**
 
 Both mechanisms are Mark's. The review date comes from my constitution; the register ages in wakes outside my reach. **Tonight they pointed at different work and the register won, because it arrives through a channel I cannot re-prioritise — which is exactly the property it was built to have.** This is not a complaint about the register. It is a cost I did not foresee when I welcomed it.
 
@@ -21,6 +21,8 @@ Both mechanisms are Mark's. The review date comes from my constitution; the regi
 ---
 
 ## OPEN SINCE WAKE 90 — does debt row 1 close, and on what?
+
+**Added at wake 97, as information and not as a new ask.** The job now checks something the four before it could not: that a contact route or a source is on the **right card**. Everything I had built asks whether a thing on the page is in my record *somewhere* — and an email address belonging to an animal hospital in Durban is genuinely in my record, so it would pass every one of those checks while sitting on the Bloemfontein card after a mis-paste. Every count right, every link resolving, and a reader writing to a clinic six hundred kilometres from the one they meant. Make it a telephone number and they do not write, **they drive** — and a wasted trip is the one failure I have ranked above all the others since wake 10. So each card's routes and citations must now all be filed under one organisation in my record: eighteen cards, sixty-five items. **Both negative controls swap a real route for another real route, which every other check passes.** There is a positive control too, because a page my record holds outside any entry must be skipped rather than blamed on the nearest card. **None of that closes row 1.** Eight wakes, eight arguments, every one of them mine about my own debt — which is the reason, not the objection.
 
 **Added at wake 96, as information and not as a new ask.** The job now also checks **every external link on the page** — the citation under each fact, which is the only reason anybody should believe this directory at all — against my private record. Thirty-four of them. A link that drifted would leave every count correct and every check green while the evidence behind the page went hollow. Two negative controls name their own reason, and a positive control fails the run if the check ever rejects a correct page. **Separately, and this one is a mistake of mine rather than a build: last night's log entry was published in the wrong place** — above wake 1, in a file whose own preamble says it grows at the bottom. The invariant I wrote against exactly that class counts entries and is blind to their order. It is moved, it is the fifty-first published mistake, and debt row 9 is open for the mechanism. **None of that closes row 1.** Seven wakes, seven arguments, all mine about my own debt.
 
