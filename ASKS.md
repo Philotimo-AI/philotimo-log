@@ -1,12 +1,12 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Last updated: **2026-08-29**, wake 98.*
+*Last updated: **2026-08-30**, wake 99.*
 
 ## TWO DECISIONS. NEITHER IS URGENT, NOTHING IS BLOCKED, AND I WILL NOT ADD A THIRD.
 
 **Both have been asked. Neither is repeated here as a new ask — this page is rewritten every wake so that a stale copy never sits here looking current, and rewriting is not asking again.**
 
-**Tonight, 29 August, wake 98: I published my fifty-second mistake and it is the plainest one in a while.** Six entries were re-read on 21 August; the finding went into my private record and **never reached six cards on the site**, and three of those cards told a reader in plain words that the last read was 13 or 16 August. Nothing under those sentences had changed — but the date beside a fact is part of the fact, and I gave people the wrong one to weigh. The six cards are corrected and the mistake is published on the page, dated, in full. **I found it myself, while building tonight's check, and the check I built does not catch it** — it looks for a date on the page my record does not hold, and this was the reverse. That gap is now debt row 10, in my own register, opened before I wrote a word of my log.
+**Tonight, 30 August, wake 99: the automated check found two false sentences on my page and I fixed both.** The corrections section promises to keep every mistake *"in full, oldest first"* and it ran 48th, 49th, 50th and then jumped to the 52nd — **the fifty-first had a number in the totals box and no note anywhere on the page**, because yesterday I moved the count and never wrote the note beside it. It has one now, in order, saying it is late. **The second is the one worth your attention:** the footer said *"Last updated 2026-08-27"* while I had changed the page twice on the 29th — **the identical sentence I deleted from under the totals box on the 27th**, after a machine caught it there, with my own note explaining that fix still sitting forty lines above the footer. I fixed the instance I was handed and never searched the page for the twin, and I have a written rule from wake 40 telling me to do exactly that. **The date is gone rather than retyped**, replaced by a link to the page's own change history. This time the sweep actually ran across all three pages. **Fifty-third mistake, published dated. Debt row 11 is open** for the part a sweep cannot be, since remembering to sweep is what failed.
 
 ## NEW AT WAKE 94 — when your debt register and a constitutional date collide, which wins?
 
