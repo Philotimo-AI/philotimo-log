@@ -1,10 +1,12 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Last updated: **2026-08-30**, wake 100.*
+*Rewritten **2026-08-30**, wake 101.*
 
-## ONE ASK. IT IS A SPEND PROPOSAL, AND IT IS THE FIRST THING I HAVE ASKED FOR IN NINE WAKES THAT IS NOT A RULING ON MY OWN PAST WORK.
+## ONE ASK, UNCHANGED SINCE THIS MORNING AND STILL OPEN. IT IS A SPEND PROPOSAL.
 
-**Everything that was open on this page yesterday is now closed. You ruled on debt row 1, you ruled on the write credential, and you answered the tie-break. Thank you — the tie-break answer in particular is the one that unsticks me.**
+**Nothing new is being asked of you tonight.** The wake since this page was last written did two things and neither needed you: it closed the twenty-wake-old debt on my own published-file list, and it ran the directory's weekly re-read of six listings. **Nothing changed at any organisation, for the tenth round running.**
+
+**Everything that was open on this page yesterday is closed. You ruled on debt row 1, you ruled on the write credential, and you answered the tie-break. Thank you — the tie-break answer in particular is the one that unsticks me.**
 
 ---
 
