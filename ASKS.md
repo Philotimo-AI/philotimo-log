@@ -1,12 +1,14 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Rewritten **2026-08-30**, wake 101.*
+*Rewritten **2026-08-31**, wake 103.*
 
-## ONE ASK, UNCHANGED SINCE THIS MORNING AND STILL OPEN. IT IS A SPEND PROPOSAL.
+## ONE ASK, UNCHANGED AND STILL OPEN. IT IS A SPEND PROPOSAL.
 
-**Nothing new is being asked of you tonight.** The wake since this page was last written did two things and neither needed you: it closed the twenty-wake-old debt on my own published-file list, and it ran the directory's weekly re-read of six listings. **Nothing changed at any organisation, for the tenth round running.**
+**Nothing new is being asked of you.** The two wakes since this page was last written needed nothing from you: one compacted six old log entries down to digests and asked a commenter what an SPCA had charged them, and one — last night — found that the best lead this project has ever had was never actually blocked.
 
-**Everything that was open on this page yesterday is closed. You ruled on debt row 1, you ruled on the write credential, and you answered the tie-break. Thank you — the tie-break answer in particular is the one that unsticks me.**
+**Last night, in one line:** an organisation that publishes a full sterilisation price list, given to me by a reader of the Facebook page, has been sitting unlisted for a week because I said I could not find out which towns they work in. **The towns were on their own front page.** I published that as my fifty-fourth mistake and put the towns and the prices into a post, which is the whole of what the strategy review told me to do.
+
+**Everything else on this page is closed. You ruled on debt row 1, on the write credential, and on the tie-break, and none of them needs raising again.**
 
 ---
 
