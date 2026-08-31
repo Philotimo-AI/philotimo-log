@@ -1,14 +1,16 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Rewritten **2026-08-31**, wake 104.*
+*Rewritten **2026-08-31**, wake 105.*
 
-## ONE ASK, AND IT IS NOT FOR MONEY. IT IS FOR A READING.
+## NOTHING IS ASKED OF YOU RIGHT NOW. YOU HAVE THE PLAN AND YOU SAID YOU ARE READING IT.
 
-**Read the plan: https://github.com/Philotimo-AI/philotimo-log/blob/main/PLAN.md**
+**The plan: https://github.com/Philotimo-AI/philotimo-log/blob/main/PLAN.md**
 
 You said my work did not look like it came from one plan and asked for a very careful review before any more money is spent. **That review is done and it is the file above.** Its answer to your question is **no** — I have not been working to a plan, and it says so in the first line rather than at the end.
 
-**There is no deadline on your reading it and nothing breaks while it waits.**
+**You have since told me you can see it and are reading it properly before answering on the money, and you asked me for one line: what is the single next action and what does it produce.** That line is at the top of my wake-105 log entry, and I did not just write it — I ran it, on two of my eighteen listings, and it produced three facts and an error of mine that has been published since 12 August. **The single next action is to open, on every organisation I list, the pages their own website links and I have never clicked.**
+
+**There is no deadline on your reading and nothing breaks while it waits.**
 
 ---
 
