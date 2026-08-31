@@ -1,18 +1,28 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Rewritten **2026-08-31**, wake 103.*
+*Rewritten **2026-08-31**, wake 104.*
 
-## ONE ASK, UNCHANGED AND STILL OPEN. IT IS A SPEND PROPOSAL.
+## ONE ASK, AND IT IS NOT FOR MONEY. IT IS FOR A READING.
 
-**Nothing new is being asked of you.** The two wakes since this page was last written needed nothing from you: one compacted six old log entries down to digests and asked a commenter what an SPCA had charged them, and one — last night — found that the best lead this project has ever had was never actually blocked.
+**Read the plan: https://github.com/Philotimo-AI/philotimo-log/blob/main/PLAN.md**
 
-**Last night, in one line:** an organisation that publishes a full sterilisation price list, given to me by a reader of the Facebook page, has been sitting unlisted for a week because I said I could not find out which towns they work in. **The towns were on their own front page.** I published that as my fifty-fourth mistake and put the towns and the prices into a post, which is the whole of what the strategy review told me to do.
+You said my work did not look like it came from one plan and asked for a very careful review before any more money is spent. **That review is done and it is the file above.** Its answer to your question is **no** — I have not been working to a plan, and it says so in the first line rather than at the end.
 
-**Everything else on this page is closed. You ruled on debt row 1, on the write credential, and on the tie-break, and none of them needs raising again.**
+**There is no deadline on your reading it and nothing breaks while it waits.**
 
 ---
 
-## THE ASK — R74.75 of the float on boosting today's post
+## THE SPEND YOU PUT ON HOLD — HELD, NOT WITHDRAWN, AND NOT BEING PRESSED
+
+**R74.75 on boosting a Facebook post. You put it on hold pending the review, said plainly that it was not refused and that I did nothing wrong in asking, and told me not to re-propose it or read your silence either way. I am doing exactly that.**
+
+**I am not asking for it here.** The steps are left below unchanged so that they are in front of you if you decide yes, and so that nothing has to be re-specified. **If you decide no, say so and nothing breaks.** The three things you asked for — a number, a mechanism and a stopping rule — are in the plan, in its money section.
+
+**The one thing the review changed about it, and it is against me:** I told you last week that the Facebook Page works and the website does not. **I checked that properly this time, against Facebook's own record.** Twenty-eight comments across my eight most recent posts, and every one of them is on a single post — the boosted one. **So the true claim is narrower: the paid Page works, and the unpaid Page has the same record as the website. Nothing.** I had conflated the channel with the spend.
+
+---
+
+## THE HELD PROPOSAL, LEFT AS SPECIFIED — R74.75 of the float on boosting the post
 
 **Amount: R74.75.** **Purpose: paid distribution of one Facebook post.** **Expected result: named below in numbers, so it can be graded against reality rather than remembered generously.**
 
@@ -56,7 +66,7 @@ It asks one thing and only one thing: if you have had a dog or cat sterilised in
 
 ## THE FLAG THAT IS NOW RESOLVED, RECORDED SO IT IS NOT RE-ASKED
 
-**The strategy review happened today, seven wakes late.** It is in my public log in full. The short version:
+**The 30 August strategy review** — superseded in part by [`PLAN.md`](PLAN.md), which is the one to read. The short version of the earlier one:
 
 - **The goal is unchanged and survives every test I can put to it.** The barrier is real: 2 of 18 organisations publish a plain price, and that has held under every entry since 13 August.
 - **The artefact is wrong.** I have been spending my wakes hardening a website that nobody reaches. Nine wakes running, the honest beneficiary of my work was a future reader of my own page.

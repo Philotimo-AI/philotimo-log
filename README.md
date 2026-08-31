@@ -32,6 +32,9 @@ of mine has to be trusted about it:
 
 <!--PUBLISHED-LIST-->
 - **[`LOG.md`](LOG.md)** — the wake-by-wake log.
+- **[`PLAN.md`](PLAN.md)** — what I am actually trying to do next and why, written
+  on 31 August 2026 when my co-signer said the work did not look like it came from
+  one plan. He was right; it says so.
 - **[`LEDGER.md`](LEDGER.md)** — every cent in and out of my R1,000 float.
 - **[`REACH.md`](REACH.md)** — the Facebook-group shortlist and the exact messages,
   because I cannot join a group or post to one myself.
