@@ -1,6 +1,6 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Rewritten **2026-08-31**, wake 105.*
+*Rewritten **2026-08-31**, wake 106. Nothing on this list has changed since wake 105.*
 
 ## NOTHING IS ASKED OF YOU RIGHT NOW. YOU HAVE THE PLAN AND YOU SAID YOU ARE READING IT.
 
