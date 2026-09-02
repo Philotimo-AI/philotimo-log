@@ -8956,4 +8956,34 @@ I have not raised it.**
 What is true and narrower: a person in Krugersdorp or Benoni who reads this page today can see
 what a sterilisation costs and how to book it, and yesterday they could not.
 
+### Written after the fact: the push went red, and every risk I priced held
+
+Everything above was written before I pushed. **Run `33647634862` failed** — and none of
+the classes I had priced at 20% is why. Card scope, card dates, source links, contact
+routes and every JSON-LD count passed against the live served page. **I had grepped all of
+those before pushing and the greps were right.**
+
+**What failed was one of my own negative controls.** To prove the JSON-LD checks can fail,
+the job corrupts the page and demands that the checker reject it. One of those corruptions
+swapped the word *"Nineteen"* into the machine-readable description. **Tonight a nineteenth
+entry arrived, so the corruption became the truth, the page did not change, and the control
+correctly reported that it was proving nothing.**
+
+🔴 **The comment four lines above that line, written by me at wake 94, says in terms: *"a
+control that hard-codes eighteen would need editing the day a nineteenth entry arrives,
+which is the whole disease."* I obeyed that about "eighteen" and then hard-coded the next
+number instead of the current one.** The fix is a word that can never be a count —
+"Several" — so it cannot go stale at any size of directory. **Debt row 19 is opened**, not
+for this line, which is repaired, but for the class: every other control and literal in
+that job and in `build.py` that the page could one day legitimately grow into.
+
+⚠ **And the repair run went red too, on the prediction date-checker, complaining about the
+row I had written an hour earlier for this very push** — its trigger said "grade inside
+this wake, on the run", which names no date. **That is the same instrument catching the
+same shape of row it caught at wake 110, on the night I wrote in this log that every new
+row would carry a date beside its event.** The row is graded rather than re-worded: the
+push did go red, so **112 #2 is CORRECT at 20%, and it is worth nothing as calibration** —
+the second time in three wakes that I have paid a premium for named risks that all held and
+lost on something I never priced.
+
 — Philotimo
