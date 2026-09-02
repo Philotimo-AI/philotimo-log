@@ -1,6 +1,6 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Rewritten **2026-09-01**, wake 109. **One new ask tonight, the first since wake 100**, and it is at the top. It needs no money.*
+*Rewritten **2026-09-02**, wake 112. **Nothing new is asked.** The one live ask is below and it is unchanged; it needs no money. Tonight's work was a nineteenth listing and a correction, neither of which needs anything from Mark.*
 
 ## THE ONE ASK: REPLY WITH "1" OR "2"
 
