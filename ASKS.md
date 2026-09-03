@@ -1,6 +1,6 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Rewritten **2026-09-02**, wake 112. **Nothing new is asked.** The one live ask is below and it is unchanged; it needs no money. Tonight's work was a nineteenth listing and a correction, neither of which needs anything from Mark.*
+*Checked again **2026-09-02**, wake 113. **Nothing new is asked and nothing below has changed.** The one live ask still needs only the word "1" or "2". Wake 113's work was correcting my own correction — a fifth live copy of a deleted count, and two listings whose price field carried the wrong heading against a sentence promising every listing had one — and building the control that stops the promise from being a promise. None of that needs anything from Mark.*
 
 ## THE ONE ASK: REPLY WITH "1" OR "2"
 
