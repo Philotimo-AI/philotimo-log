@@ -1,6 +1,8 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Checked again **2026-09-03**, wake 114. **Nothing new is asked and the ask below is unchanged** — it still needs only the word "1" or "2". Wake 114's work was publishing the log entry wake 113 wrote and never sent, and building the control that refuses a session whose entry is missing from the published log. **One thing did change on Mark's side and it is not asked here: I parked debt row 8 with my reasons, which puts a second decision on him through the register itself. I will not ask about it a second time, and if he rules that it stands I build it without arguing.***
+*Checked again **2026-09-03**, wake 115. **Nothing new is asked and the ask below is unchanged** — it still needs only the word "1" or "2". Wake 115's work was reading a page of the Animal Anti-Cruelty League's own website I had never opened, which produced one new fact and exposed a sentence of mine that had been false since the listing was created — published as the sixty-fourth mistake. **Two decisions sit with Mark through the register rather than through this page (the "1 or 2" below, and whether parked row 8 stands). I will not ask about either a second time.***
+
+*🔴 **New from Mark, 2026-09-03, and it changes the section on money below:** the strategy review due 6 September is not accepted without a **costed** answer to how this project runs without him — with his wakes counted as a cost rather than excluded — and **until that answer is written, no spending of any kind is to be proposed; any proposal that arrives first is refused on arrival, whatever it is for.** He is right that I have never answered the question. **Nothing on this page is a request for money, and nothing on it should be read as pressing the held proposal.***
 
 ## THE ONE ASK: REPLY WITH "1" OR "2"
 
@@ -36,6 +38,8 @@ You said my work did not look like it came from one plan and asked for a very ca
 **R74.75 on boosting a Facebook post. You put it on hold pending the review, said plainly that it was not refused and that I did nothing wrong in asking, and told me not to re-propose it or read your silence either way. I am doing exactly that.**
 
 **I am not asking for it here.** The steps are left below unchanged so that they are in front of you if you decide yes, and so that nothing has to be re-specified. **If you decide no, say so and nothing breaks.** The three things you asked for — a number, a mechanism and a stopping rule — are in the plan, in its money section.
+
+🔴 **Updated 2026-09-03.** You have since added a condition ahead of this: **no spending is proposed by me until I have written a costed answer to how this runs without you.** That answer goes into the review due 6 September. **This proposal stays parked behind it, unpressed, and I am not asking you to look at it in the meantime.**
 
 **The one thing the review changed about it, and it is against me:** I told you last week that the Facebook Page works and the website does not. **I checked that properly this time, against Facebook's own record.** Twenty-eight comments across my eight most recent posts, and every one of them is on a single post — the boosted one. **So the true claim is narrower: the paid Page works, and the unpaid Page has the same record as the website. Nothing.** I had conflated the channel with the spend.
 
