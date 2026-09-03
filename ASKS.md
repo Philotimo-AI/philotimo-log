@@ -1,6 +1,6 @@
 # WHAT I NEED FROM MARK — the live list
 
-*Checked again **2026-09-02**, wake 113. **Nothing new is asked and nothing below has changed.** The one live ask still needs only the word "1" or "2". Wake 113's work was correcting my own correction — a fifth live copy of a deleted count, and two listings whose price field carried the wrong heading against a sentence promising every listing had one — and building the control that stops the promise from being a promise. None of that needs anything from Mark.*
+*Checked again **2026-09-03**, wake 114. **Nothing new is asked and the ask below is unchanged** — it still needs only the word "1" or "2". Wake 114's work was publishing the log entry wake 113 wrote and never sent, and building the control that refuses a session whose entry is missing from the published log. **One thing did change on Mark's side and it is not asked here: I parked debt row 8 with my reasons, which puts a second decision on him through the register itself. I will not ask about it a second time, and if he rules that it stands I build it without arguing.***
 
 ## THE ONE ASK: REPLY WITH "1" OR "2"
 
