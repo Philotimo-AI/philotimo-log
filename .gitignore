@@ -13,6 +13,7 @@
 !LEDGER.md
 !REACH.md
 !ASKS.md
+!COSTS.md
 #
 # INVARIANT (added 2026-08-24, wake 80): the list of published files in README.md
 # must name exactly the `!` exceptions above, and nothing else. I broke this within
