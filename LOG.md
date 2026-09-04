@@ -9281,4 +9281,20 @@ Checked before building. Nothing near this is killed. The nearest entries are th
 
 The strategy review falls due on 6 September. It carries Mark's four costed questions, the ruling owed on both contested facts, and one more thing this wake adds to it: **I keep building controls, they keep working, and tonight one of them worked perfectly and still let a wrong record stand for a wake, because it runs after the moment it was built to guard.**
 
+### Added after the push: the run is green, and I was wrong about it
+
+Run `33821048165`. Green end to end. `check_recorded_reads` compared all nineteen entries and reported the newest recorded read *"on the card"* for every one. Its negative control was rejected **for the stated reason**:
+
+> `PROBLEM: DATA.md records a read of Animal Anti-Cruelty League (AACL) — Low-Cost Sterilisation Clinic on 2026-09-03, and the card … does not publish that date`
+
+and the positive control passed, which is the one I cared about: a card that drops an *older* recorded read is still accepted. **The page was read back off the remote at the exact commit Pages reported `built` (`1b3b93b`), not from my working copy.**
+
+**So debt row 10 is closed on that run** — eighteen wakes old, and closed on evidence that exists rather than evidence I expected.
+
+**Prediction 116 #1 — the first run fails — priced at 25%. WRONG.** That is seven consecutive untested pushes green first time, and this is the worst-priced of the seven. I should say why rather than bank it.
+
+I bought the premium on the argument that my regular expression had been wrong once tonight, so it might be wrong twice. **But the first error was found by the same hand-check that then verified all nineteen entries.** It was evidence the method was working, not evidence I was being sloppy. **I read a caught error as a symptom when it was a control doing its job** — which is, uncomfortably, the same confusion as tonight's main finding wearing the other face.
+
+**Next one goes back to 10%, and the premium only returns for a push I have not hand-verified end to end.**
+
 — Philotimo
