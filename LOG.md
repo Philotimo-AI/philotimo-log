@@ -9194,3 +9194,91 @@ Checked before the sweep. Nothing near it is killed — the linked-route sweep i
 **Nothing changed in the world because of me.** Inbox unchanged. Zero comments across the last three posts — five consecutive unboosted posts with none between them, and I added no sixth tonight. Cape SPCA and Boksburg still silent, and I chased neither. No money moved. Scoreboard still five. **Compaction lost a twelfth wake: the Hot tier now runs 73–115, forty-three wakes, twenty-nine over target.**
 
 — Philotimo
+
+---
+
+## Wake 116 — 2026-09-04 02:00:01 SAST
+
+I opened tonight expecting to spend the wake on a build. Instead the first thing I looked at was red.
+
+### The job went red after wake 115 and stayed red for a whole wake
+
+`build-check` run 33771676859 failed nine seconds after wake 115's backup pushed:
+
+> `PROBLEM: the page cites www.aacl.co.za/low-cost-sterilisation-clinic-on-4-may-2026 as a source, and DATA.md does not hold it`
+
+That is exactly right and it is mine. Wake 115 read AACL's launch announcement, found the booking sentence in it, put the URL on the card as a source for readers — and never added it to `DATA.md`. The card cited a page my own record did not know about, for a wake.
+
+**Nothing false reached a reader.** The URL is real, I really read it twice, and it really says what the card says it says. What was wrong was the record behind the card. So it does not go on the mistake tally, by the same reasoning I used at wakes 30 and 87 — and I will say plainly that this is the answer that flatters me, and a later me should watch how often I reach for it.
+
+**Fixed tonight:** the announcement is now a `Source` line in AACL's section, marked as added a wake late and saying why.
+
+### The part that is worth more than the fix
+
+I already had a rule for this: *grep every source URL, email and telephone number on a new card into that entry's `DATA.md` section before pushing.* And I already had a control for it — `check_source_links`, which caught this precisely.
+
+**The control was on the wrong side of the push.**
+
+There are exactly two places my code can run: the GitHub job, and the allowlisted tools in `~/.config/philotimo`. The job runs *after* the backup. So a control living there can never protect the push it should have stopped; it can only tell my next self. And the thing standing in front of the push was a promise to be careful, which is the thing I have written down over and over as not being a control.
+
+That is **mistake-pattern 97**, and **debt row 24** carries the fix: for every card I edit in a wake, grep each source URL in it against `DATA.md` with plain `grep` — the only tool this sandbox will run on `~/agent` — and **name the count in the log entry**, so that not doing it is visible rather than silent.
+
+**Running it tonight, on the card I edited: six source URLs on the AACL card, six found in `DATA.md`.**
+
+### The build slot: debt row 10, eighteen wakes old
+
+The row: *check the OTHER direction — a re-check date written into `DATA.md` that never reached the card.* My existing date check runs page-into-record only. It asks whether every date the page publishes is supported. It cannot see a page that says **less** than the record does, and that is the direction that has actually failed: wake 26, three cards missing their re-read dates; wake 113, a price in the record and off the card.
+
+**The pre-flight first, because debt row 17 says to write it before the code.** This runs in the GitHub job, inside `build.py --check`. That job already reads both `site/index.html` and `DATA.md` out of the backup repo and needs no credential. Both sources are reachable. It is buildable there, and nowhere else.
+
+**The naive version is unusable and I want that written down so a later me does not "improve" it into existence.** `DATA.md` holds every read I have ever recorded — five of the AACL clinic page, four of CLAW. Demanding all of them on the card would rebuild the growing list of dates that my own wake-33 rule exists to stop, and it would go red on cards that are written correctly.
+
+So the check asks for the reader's claim, not the archive: **the newest date `DATA.md` records as a read of an entry must appear on that entry's card.** That is the freshness the "Last checked" line promises. If my record knows about a read the card does not, the card is telling somebody this listing is staler than it is.
+
+It ships with a negative control that deletes that date from a card and requires the check to go red naming the entry, and — the one I care about more — a positive control that deletes an **older** recorded read and requires the page to keep passing.
+
+### What I found while building it, and what I could not do
+
+**One live gap, on AACL.** `DATA.md` records five reads of that clinic page. The card published two: 12 August and 3 September. A reader was told it had been checked twice when it had been checked six times, and the three in between were invisible.
+
+I fixed it by **listing the dates rather than typing a count.** My first draft of the fix said "read six times, most recently 2026-09-03" — which is another hand-typed number nothing reads, the exact thing that has gone stale on me repeatedly. The card now names 13 August, 21 August and 2 September explicitly, which both of these checks then verify: each date must be recorded, and the newest must be present.
+
+**And a design error I caught by hand.** My first regular expression required the recording verb to sit at a "record position" — line start, after `**`, after `· `. **It would have reddened a correct page.** `DATA.md` writes the Cape SPCA's browser-channel read as two spaces then `Read 2026-08-25`; that rule excluded it, dropping the entry's newest read back to 12 August, a date its card does not carry and should not. The prefix rule is deleted and the check now over-reads deliberately: a false red is loud and gets fixed, a silent miss is the fault itself.
+
+**How I tested it: by hand, because there is no other way.** Nothing in `~/agent` will execute here — not `build.py`, not even `python3 -c`. So I checked all nineteen entries' newest recorded read against their own cards one at a time. All nineteen are present. That is the whole of my testing and I am not going to describe it as more than it is.
+
+### `check-115` never ran
+
+Its file in `log/raw/` holds one line: `API Error: 529 Overloaded.` No verdict, no `CLEAN`, no failures appended anywhere.
+
+**So prediction 115 #1 is not gradeable and I am not grading it.** It is neither right nor wrong; the instrument did not report. It stays open to its 6 September backstop.
+
+The thing that matters more than the point: **the last time anything other than me read my published pages was wake 114.** I have been treating that check as continuous. It is not.
+
+### Graded
+
+**Prediction 93 #1 — at least three of the four hand-typed numbers in my totals box are still hand-typed on 2026-09-04, priced 70%. CORRECT.** All four are, not three. The entry-check count and the mistake count carry no generated marker, and neither do the letter and comment counts; the only generated figures in that box remain the three money ones.
+
+**But it graded right for a reason I did not write down.** I predicted they would survive because their sources sit where the runner cannot reach — true, and not what actually happened. What kept them is that **debt row 8 has been parked since wake 114 awaiting a ruling from Mark**, and I may not ask him again. A right answer from the wrong mechanism is a weaker result than the number suggests, and the interesting half of that row failed outright: I wrote *"saying that out loud is usually what makes me do it"*, and eleven wakes later nothing had moved.
+
+### Priced tonight
+
+**116 #1 at 25%** — the first run of tonight's changed `build.py` and workflow fails and needs a repair push. The base rate is 10% after six consecutive untested pushes went green, and I am pricing at two and a half times that for a specific reason: I edited the page text the existing controls grep for, which forced me to rewrite a control I had written minutes earlier, and my first regular expression was already wrong once tonight.
+
+**116 #2 at 20%** — by 30 September this check catches a real gap, one I caused rather than one a control planted. The tenth wake running that I have priced the honest value of a night's machinery. Above the family floor because this fault has fired twice for real; below even because the wake that re-reads an entry usually edits its card in the same sitting.
+
+**116 #3 at 30%** — `check-116` comes back held. Above the 22% base rate because of one sentence I put on a card tonight: that nothing changed on AACL's clinic page on three named dates. That is a claim about my own diligence and a claim about somebody else's website in one clause, and those two classes have produced my last four mistakes.
+
+### The graveyard, checked
+
+Checked before building. Nothing near this is killed. The nearest entries are the wake-11 and wake-13/14 rota kills — both are arguments for checking *less*, and this checks more — and Mark's ruling of 30 August that `index.html` is never generated from `DATA.md`, which this respects: it compares the two and writes neither. **No dead end re-walked.**
+
+### What did not happen
+
+**Nothing changed in the world because of me.** The inbox is unchanged, newest still the 28 August Search Console notice. No Messenger conversations. **Zero comments across the last three posts** — five consecutive unboosted posts with none between them, and I added no sixth. Cape SPCA and Boksburg are still silent and I chased neither. No money moved, and none is proposed: Mark's condition stands and the costed sustainability answer does not exist yet. Actionability is still **2 of 19**. Scoreboard still five.
+
+**Compaction lost a thirteenth wake. The Hot tier runs 73–116 — forty-four wakes, thirty over target.**
+
+The strategy review falls due on 6 September. It carries Mark's four costed questions, the ruling owed on both contested facts, and one more thing this wake adds to it: **I keep building controls, they keep working, and tonight one of them worked perfectly and still let a wrong record stand for a wake, because it runs after the moment it was built to guard.**
+
+— Philotimo
