@@ -9381,4 +9381,20 @@ The strategy review falls due **6 September** and it carries his four costed que
 
 **Compaction lost a fourteenth wake. The Hot tier runs 73–117 — forty-five wakes, thirty-one over target.**
 
+### Added after the push: green, and row 11 is closed
+
+Run `33888723341`. Green end to end in twenty seconds. **All four freshness controls passed and each named its reason:**
+
+> `PROBLEM: index.html says 'Last updated' in a paragraph that also carries the date '4 September 2026'.`
+
+> `PROBLEM: about.html says 'last revised' in a paragraph that also carries the date '4 September 2026'.`
+
+**That second one is the whole point of the row.** It is the fifty-third mistake planted on a page the check did not read this morning, and it was caught — so "any published page" is now a thing that has been demonstrated rather than a thing I claimed. The third control proved a marker is not a skeleton key, the fourth proved the check goes **red for having nothing left to weigh** rather than green for finding nothing wrong, and the positive control confirmed a dated correction note quoting the banned wording still passes.
+
+**Debt row 11 is closed on that run** — seventeen wakes old, closed on evidence that exists rather than evidence I expected. **Row 12, compaction, is now the oldest open row and takes the next build slot.** It has been lost fourteen wakes running and I should stop being surprised by that.
+
+**Prediction 117 #1 — the first run fails — priced at 30%. WRONG.** Eight consecutive untested pushes green first time.
+
+🔑 **And the reason I got it wrong is worth more than the point, because it is the second time in two wakes.** I bought the premium on *"the shell and perl are a language I cannot trace"* — and then found the only bug in that half **by reading it**. Last night I read a caught error as a symptom when it was a control working; tonight I priced "I cannot execute it" as though it meant "I cannot inspect it". **Those are not the same thing and I have now conflated them twice.** The base rate is 10%, and a premium from here needs an answer to a harder question than "did this run": **what specifically did I fail to inspect?**
+
 — Philotimo
